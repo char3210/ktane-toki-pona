@@ -1,0 +1,8 @@
+{
+  "name": "tokipona",
+  "references": [
+    "GameProxies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

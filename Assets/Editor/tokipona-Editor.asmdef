@@ -1,0 +1,10 @@
+{
+  "name": "tokipona-Editor",
+  "references": [
+    "tokipona"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

@@ -1,0 +1,1369 @@
+Keys,toki pona [tok]
+AlarmClock/button_snooze,LAPE
+Achievement/ach1_name,jan wawa
+Achievement/ach1_desc,"pona e ""ijo pakala nanpa wan"""
+Achievement/ach2_name,Bomb Defusing 101
+Achievement/ach2_desc,"Defuse all bombs in ""The Basics"" section."
+Achievement/ach3_name,All in Moderation
+Achievement/ach3_desc,"Defuse all bombs in the ""Moderate"" section."
+Achievement/ach4_name,Multitasker
+Achievement/ach4_desc,"Defuse all bombs in the ""Needy"" section."
+Achievement/ach5_name,Challenge Accepted
+Achievement/ach5_desc,"Defuse all bombs in the ""Challenging"" section."
+Achievement/ach6_name,To the Extreme!
+Achievement/ach6_desc,"Defuse all bombs in the ""Extreme"" section."
+Achievement/ach7_name,Seasoned Traveller
+Achievement/ach7_desc,"Defuse all bombs in the ""Exotic"" section."
+Achievement/ach8_name,Experience is the Best Teacher
+Achievement/ach8_desc,Disarm each type of module at least once.
+Achievement/ach9_name,Trust the Expert
+Achievement/ach9_desc,Disarm 100 modules.
+Achievement/ach10_name,Bomb Squad
+Achievement/ach10_desc,Defuse 100 bombs.
+Achievement/ps4_set_desc,"Keep talking, don't explode, and you might even get a trophy for your efforts."
+BigButton/rule_abort,pini
+BigButton/rule_detonate,pakala
+BigButton/rule_hold,awen luka
+BigButton/rule_press,luka
+BombBinder/CoverText,Bombs
+BombBinder/HeaderFooter,English
+BombBinder/ParentToCName,Table of Contents
+BombBinder/SectionHeaderNumContd,Section {[SECTION_NUM]} (cont.)
+BombBinder/SectionHeaderNumName,Section {[SECTION_NUM]}: {[SECTION_NAME]}
+BombBinder/SubsectionNumber,{[SECTION_NUM]}.{[SUBSECTION_NUM]}
+BombBinder/TournamentComplete,Tournament Complete
+BombBinder/button_continue,CONTINUE
+BombBinder/button_restartdemo,RESTART DEMO
+BombBinder/button_retry,RETRY
+BombBinder/button_start,START
+BombBinder/error_missingModules,"Missing mods:
+{[MISSING_MODULES_LIST]}"
+BombBinder/error_missionNotFound,<MISSION NOT FOUND: {[MISSION_ID]}>
+BombBinder/error_needABiggerBomb,"A bomb that can support more modules is required.
+
+Current bombs only support up to {[MAX_MODULE_COUNT]} modules."
+BombBinder/error_noSectionsDefined,NO SECTIONS DEFINED
+BombBinder/error_tutorialNotFound,<TUTORIAL NOT FOUND>
+BombBinder/label_1indentifier,1. Identifier
+BombBinder/label_2bombconfiguration,2. Bomb Configuration
+BombBinder/label_2description,2. Description
+BombBinder/label_3advancedoptions,3. Advanced Options
+BombBinder/label_3attachments,3. Attachments
+BombBinder/label_3configuration,3. Bomb Configuration
+BombBinder/label_3result,3. Result
+BombBinder/label_4besttime,4. Best Time
+BombBinder/label_4result,4. Result
+BombBinder/label_cont,(cont.)
+BombBinder/label_tableOfContentsTitle,Contents
+BombBinder/leaderboard_allplayers,(All Players)
+BombBinder/leaderboard_couldnotload,(Could not load leaderboard)
+BombBinder/leaderboard_error_load,Failed to load leaderboard.
+BombBinder/leaderboard_error_load_no_internet,"Failed to load leaderboard.
+
+An active internet connection is required."
+BombBinder/leaderboard_error_no_score,Defuse this bomb to view your score on the leaderboard!
+BombBinder/leaderboard_error_ps4_network,A network error occurred
+BombBinder/leaderboard_error_submit,Failed to submit to leaderboard.
+BombBinder/leaderboard_error_submit_no_internet,"Failed to submit to leaderboard.
+
+An active internet connection is required."
+BombBinder/leaderboard_friendsonly,(Friends Only)
+BombBinder/leaderboard_header_name,Player
+BombBinder/leaderboard_header_rank,RANK
+BombBinder/leaderboard_header_time,"Time
+Remaining"
+BombBinder/leaderboard_rankstring,TOP {[RANK_PERCENT]}%
+BombBinder/leaderboard_retry,RETRY
+BombBinder/leaderboard_title,Leaderboard
+BombBinder/leaderboard_viewall,VIEW ALL
+BombBinder/leaderboard_viewfriends,VIEW FRIENDS
+BombBinder/results_HardcoreOff,Hardcore: OFF
+BombBinder/results_HardcoreOn,Hardcore: ON
+BombBinder/results_NeedyOff,Needy: OFF
+BombBinder/results_NeedyOn,Needy: ON
+BombBinder/results_TimeRanOut,Time Ran Out
+BombBinder/section_conference_title,PAX East 2019
+BombBinder/txt_defusedStamp,Defused
+BombBinder/txt_explodedStamp,Exploded
+BombBinder/gameobject_stampType,Stamp_EN_Texture
+BombBinder/tutorial_pickUpAndStart,Pick up the Bombs Binder and start a mission
+BombBinder/txtBestTime,* BEST TIME
+BombBinder/txtBestTimeRemaining,"{[TIME_REMAINING]}
+remaining"
+BombBinder/txtCauseOfExplosionTitle,Cause of Explosion:
+BombBinder/txtModuleCount,{[MODULE_COUNT]} Modules[i2p_One]1 Module
+BombBinder/txtStrikeCount,{[STRIKE_COUNT]} Strikes[i2p_One]1 Strike
+BombBinder/txtTimeRemainingTitle,Time Remaining:
+ControlsPopup/label_changeSelection,"Change
+Selection"
+ControlsPopup/label_select,Select
+ControlsPopup/title_gamepadControls,Gamepad Controls
+ControlsPoster/changeselection,Change Selection
+ControlsPoster/deselect,Deselect
+ControlsPoster/grab,Grab
+ControlsPoster/grabslashinteract,Grab/Interact
+ControlsPoster/inspectheldobject,Inspect Held Object
+ControlsPoster/interact,Interact
+ControlsPoster/lefttrigger,Left Trigger
+ControlsPoster/look,Look
+ControlsPoster/manualversion,"Bomb Defusal Manual
+Version {[MANUAL_VERSION]}"
+ControlsPoster/manualversionurl,"Bomb Defusal Manual
+Version {[MANUAL_VERSION]}
+{[MANUAL_URL]}"
+ControlsPoster/menu,Menu
+ControlsPoster/or,Or
+ControlsPoster/rightstick,Right Stick
+ControlsPoster/rotateheldobject,"Rotate
+Held Object"
+ControlsPoster/select,Select
+ControlsPoster/title,Controls
+ControlsTutorial/CompleteTextNonVR,"If you ever need a reminder of these
+controls, a diagram can be found in the menu
+by pressing the Escape (Esc) key."
+ControlsTutorial/CompleteTextNonVR[Touch],"If you ever need a reminder of these
+controls, you can play this tutorial 
+again from the Bombs binder."
+ControlsTutorial/CompleteTextNonVR[XBox],"If you ever need a reminder of these
+controls, a diagram can be found in the menu
+by pressing the Menu button."
+ControlsTutorial/CompleteTextNonVR[Switch],"If you ever need a reminder of these 
+controls, a diagram can be found in the menu
+by pressing the + Button."
+ControlsTutorial/CompleteTextNonVR[PS4],"If you ever need a reminder of these
+controls, a diagram can be found in the menu
+by pressing the OPTIONS button."
+ControlsTutorial/CompleteTextVR,"If you ever need a reminder of these
+controls, a poster can be found to your
+right on the wall of each room."
+ControlsTutorial/CutWire,"Next, <color=yellow>cut the </color><color=#A1CBFF>blue</color> <color=yellow>wire</color> in the top-middle module.
+
+First select the module, then select the wire you
+wish to cut."
+ControlsTutorial/CutWire[Touch],"Next, <color=yellow>cut the </color><color=#A1CBFF>blue</color> <color=yellow>wire</color> in the top-middle module.
+
+First tap the module, then tap the icon beside the wire you
+wish to cut."
+ControlsTutorial/CutWireVR,"Next, <color=yellow>cut the</color> <color=#A1CBFF>blue</color> <color=yellow>wire</color> in
+the top-middle module.
+
+First select the module, then
+select the wire you wish
+to cut."
+ControlsTutorial/DeselectAndFinish,"Great work, now you know all of the controls!
+
+<color=yellow>Deselect the bomb</color> to put it back on the table and
+finish this tutorial."
+ControlsTutorial/DeselectAndFinish[Touch],"Great work, now you know all of the controls!
+
+<color=yellow>Tap the Back button</color> to put the bomb back on the table and
+finish this tutorial."
+ControlsTutorial/DeselectAndFinishVR,"Great work, now you know all
+of the controls!
+
+<color=yellow>Deselect the bomb</color> to put it
+back on the table and finish
+this tutorial."
+ControlsTutorial/Inspect,"You can also inspect a held object using your
+controller's motion sensor.
+
+<color=yellow>Hold R1 or R2 to inspect.</color>"
+ControlsTutorial/InspectVR,"You can also inspect a held
+object using your controller's
+motion sensor.
+
+<color=yellow>Hold R1 or R2 to inspect.</color>"
+ControlsTutorial/PressButton,"This bomb is different than the other: it has a
+second module with a Big Button.
+
+Select the Big Button module and <color=yellow>press the Big Button</color>."
+ControlsTutorial/PressButton[Touch],"This bomb is different than the other: it has a
+second module with a Big Button.
+
+Tap the Big Button module and <color=yellow>press the Big Button</color>."
+ControlsTutorial/PressButtonDeselectWires,"This bomb is different than the other: it has a
+second module with a Big Button.
+
+<color=yellow>Deselect the wires module</color>."
+ControlsTutorial/PressButtonDeselectWires[Touch],"This bomb is different than the other: it has a
+second module with a Big Button.
+
+<color=yellow>Deselect the wires module by pressing the Back button.</color>"
+ControlsTutorial/PressButtonDeselectWiresVR,"This bomb is different than
+the other: it has a second
+module with a Big Button.
+
+<color=yellow>Deselect the wires module</color>."
+ControlsTutorial/PressButtonVR,"This bomb is different than
+the other: it has a second
+module with a Big Button.
+
+Select the Big Button module
+and <color=yellow>press the Big Button</color>."
+ControlsTutorial/Rotate,"This bomb was not armed, so it was safe to interact with.
+Don't be careless when dealing with an armed bomb!
+
+One last thing to try out:
+<color=yellow>Rotate to inspect any of the sides, top, or bottom</color>."
+ControlsTutorial/Rotate[Touch],"After picking up a bomb you can rotate it to inspect any of the sides, top, or bottom.
+
+<color=yellow>Tap the arrow icons to rotate the bomb</color>."
+ControlsTutorial/RotateBackOut[Touch],"After picking up a bomb you can rotate it to inspect any of the sides, top, or bottom.
+
+<color=yellow>Deselect the module before rotating by pressing the Back button</color>."
+ControlsTutorial/RotateVR,"This bomb was not armed, so
+it was safe to interact with.
+Don't be careless when
+dealing with an armed bomb!
+
+One last thing to try out:
+<color=yellow>Rotate to inspect any of
+the sides, top, or bottom</color>."
+ControlsTutorial/SelectBomb,<color=yellow>Select the bomb</color> on the table to pick it up.
+ControlsTutorial/SelectBomb[Touch],<color=yellow>Tap the bomb</color> on the table to pick it up.
+ControlsTutorial/SelectBombVR,"<color=yellow>Select the bomb</color> on the
+table to pick it up."
+ControlsTutorial/SelectNewBomb,"A new bomb was just placed on the table.
+<color=yellow>Pick up this new bomb.</color>"
+ControlsTutorial/SelectNewBombA,"Deselect the current module, then deselect the
+old bomb to place it back on the table."
+ControlsTutorial/SelectNewBombA[Touch],"Tap the Back arrow to deselect the current module,
+then tap it again to place the old bomb back on the table."
+ControlsTutorial/SelectNewBombAVR,"Deselect the current module,
+then deselect the old bomb
+to place it back on the table."
+ControlsTutorial/SelectNewBombB,Select the new bomb on the right.
+ControlsTutorial/SelectNewBombB[Touch],Tap the new bomb on the right.
+ControlsTutorial/SelectNewBombBVR,"Select the new bomb on
+the right."
+ControlsTutorial/SelectNewBombVR,"A new bomb was just placed
+on the table. 
+<color=yellow>Pick up this new bomb</color>"
+ControlsTutorial/daydream_clickToDeselect,Press to Deselect
+ControlsTutorial/daydream_clickToSelect,Click to Select
+ControlsTutorial/daydream_swipeToRotate,Swipe to Rotate
+ControlsTutorial/gamepad_changeselection,Change Selection
+ControlsTutorial/gamepad_deselect,Deselect
+ControlsTutorial/gamepad_inspect,Inspect
+ControlsTutorial/gamepad_rotate,Rotate Held Object
+ControlsTutorial/gamepad_select,Select
+ControlsTutorial/introduction,"Before you begin, let's quickly go
+over the controls of this game."
+ControlsTutorial/mouse_deselect,"Right Click to
+Deselect"
+ControlsTutorial/mouse_or,or
+ControlsTutorial/mouse_rotate,Right Click & Drag to Rotate Held Object
+ControlsTutorial/mouse_select,"Left Click to
+Select"
+ControlsTutorial/trackpad_rotate,Right Click & Drag or Two-Finger Scroll to Rotate Held Object
+ControlsTutorial/motion_GrabBomb,<color=yellow>Grab the bomb</color> on the table by moving your controller into the bomb and squeezing the grip.
+ControlsTutorial/motion_CutWire,"Next, find the wire module on the other side of the bomb and <color=yellow>cut the</color> <color=#A1CBFF>blue</color> <color=yellow>wire</color>.
+
+Cut a wire by moving the small sphere at the tip of your other controller into the wire and pulling the trigger."
+ControlsTutorial/motion_ResetRoom,"Great! One last thing to try out: If an object becomes out of reach, you can Reset Room from the menu.
+
+You can instantly grab the menu at any time by pressing the A button.
+
+<color=yellow>Try resetting the room now.</color>"
+Credits/additionalArtSectionTitle,Additional Art
+Credits/andEveryoneElse,"And everyone else who helped
+
+support us <3"
+Credits/artistsSectionTitle,Concept Art & 3D Art
+Credits/createdBy,Created by
+Credits/localization,Localization
+Credits/localizationJapanese,Japanese Localization
+Credits/logoSectionTitle,Logo
+Credits/mobileDevelopmentAssistance,Mobile Development Assistance
+Credits/musiciansSectionTitle,Music
+Credits/publishingJapanese,Japanese Publishing Support
+Credits/soundEffectsSectionText,"This game uses many sounds from freesound. For the full list, visit"
+Credits/soundEffectsSectionTitle,Sound Effects
+Credits/specialThanksSectionTitle,Special Thanks
+Credits/steelCrateSectionTitle,Steel Crate Games is:
+Credits/thanksForPlaying,Thanks for playing!
+Credits/visitUsAt,Visit us at
+Dossier/allowCutWiresDirectly_no,Cut Wires Directly: No
+Dossier/allowCutWiresDirectly_yes,Cut Wires Directly: Yes
+Dossier/antialiasing_off,Off
+Dossier/antialiasing_value,{[AA_VALUE]}x
+Dossier/button_accessibility,Accessibility
+Dossier/button_apply,Apply
+Dossier/button_credits,Credits
+Dossier/button_customTableOfContents,Custom ToC: {[TOC_NAME]}
+Dossier/button_demoOptions,Demo Options
+Dossier/button_graphics,Graphics
+Dossier/button_language_sel,"<sprite=""Globe"" name=""Globe"" color=#000000CF> Language"
+Dossier/button_options,Options
+Dossier/button_quitGame,Quit Game
+Dossier/button_records,View Recent Records
+Dossier/button_resetOrientation,Reset Orientation
+Dossier/button_resetRoom,Reset Room
+Dossier/button_restartDemo,Restart Demo
+Dossier/button_returnToSetupRoom,Return to Office
+Dossier/button_secondScreen,Second Screen
+Dossier/button_sound,Sound
+Dossier/button_streamMirrorManual,TV Screen: Manual
+Dossier/button_streamMirrorVR,TV Screen: VR
+Dossier/cover_title,Menu
+Dossier/customToC_Conference,Conference
+Dossier/customToC_None,None
+Dossier/disableAlarmClock_no,Disable Alarm Clock: No
+Dossier/disableAlarmClock_yes,Disable Alarm Clock: Yes
+Dossier/forgetLastGameSettings_no,Forget Last Settings: No
+Dossier/forgetLastGameSettings_yes,Forget Last Settings: Yes
+Dossier/graphicsMode_fullscreen,Fullscreen
+Dossier/graphicsMode_windowed,Windowed
+Dossier/label_accessibilityVetos,Freeplay Vetos
+Dossier/label_antiAliasing,Anti-Aliasing
+Dossier/label_bombManualVersion,"Bomb Defusal Manual
+Version {[MANUAL_VERSION]}
+{[MANUAL_URL]}"
+Dossier/label_controls,Controls
+Dossier/label_gameVersion,"Game Version
+{[GAME_VERSION]}"
+Dossier/label_graphicsMode,Graphics Mode
+Dossier/label_language,Language
+Dossier/label_musicVolumeTitle,Music Volume
+Dossier/label_notAvailable,Not Available
+Dossier/label_renderQuality,Render Quality
+Dossier/label_resolution,Resolution
+Dossier/label_secondScreen,Second Screen
+Dossier/label_sfxVolumeTitle,Sound Effect Volume
+Dossier/no_records,No records found
+Dossier/resolution_value,{[X]}x{[Y]}
+Dossier/secondscreen_manual,Manual
+Dossier/secondscreen_mirror,Mirror
+Dossier/secondscreen_none,None
+Dossier/showDemoInstructions_no,Show Demo Instructions: No
+Dossier/showDemoInstructions_yes,Show Demo Instructions: Yes
+Dossier/showInteractionHints_no,Show Interaction Hints: No
+Dossier/showInteractionHints_yes,Show Interaction Hints: Yes
+Dossier/showLeaderboards_no,Show Leaderboards: No
+Dossier/showLeaderboards_yes,Show Leaderboards: Yes
+Dossier/showPostGameAnimation_yes,Show Defused Anim: Yes
+Dossier/showPostGameAnimation_no,Show Defused Anim: No
+Dossier/showRotationUI_no,Show Rotation UI: No
+Dossier/showRotationUI_yes,Show Rotation UI: Yes
+Dossier/showScanline_no,Show Scanline: No
+Dossier/showScanline_yes,Show Scanline: Yes
+Dossier/showWireUI_no,Show Wire UI: No
+Dossier/showWireUI_yes,Show Wire UI: Yes
+Dossier/title_accessibility,Accessibility
+Dossier/title_credits,Credits
+Dossier/title_demooptions,Demo Options
+Dossier/title_graphics,Graphics
+Dossier/title_licenses,Licenses
+Dossier/title_menu,Menu
+Dossier/title_options,Options
+Dossier/title_records,Recent Records
+Dossier/title_sound,Sound
+Dossier/title_vrgraphics,VR Graphics
+Dossier/touchpadInverted_no,Invert Touchpad: No
+Dossier/touchpadInverted_yes,Invert Touchpad: Yes
+Dossier/vibration_no,Vibration: No
+Dossier/vibration_yes,Vibration: Yes
+Feedback/button_submit,Submit
+Feedback/choice_discuss,Discuss the translation with other native speakers
+Feedback/choice_discuss_button,Visit Steam Forums
+Feedback/choice_reportbug,Report a bug directly to the developers
+Feedback/choice_reportbug_button,Report Bug
+Feedback/detail,Detail
+Feedback/disclaimer,"Basic system information, game log, your Steam ID, and a screenshot will be sent with your report."
+Feedback/importance_low,Low Importance
+Feedback/importance_med,Medium Importance
+Feedback/importance_high,High Importance
+Feedback/instructions,This language translation is still under development. Please report any bugs you find or feedback you have. Thanks!
+Feedback/status_submitting,Submitting...
+Feedback/status_error,Error: {[ERROR_MSG]}
+Feedback/steam_link,Discuss in the Steam forums!
+Feedback/steam_forum_url,https://steamcommunity.com/app/341800/discussions/3/
+Feedback/success,Your feedback has been submitted successfully to the developers. Thanks so much!
+Feedback/summary,Summary
+Feedback/title,{[LANGUAGE_NAME]} Translation Feedback
+Feedback/info_tag,{[GAME_VERSION]} - {[LANGUAGE_NAME]} Translation Beta
+Feedback/toggle_instructions,Press {[FEEDBACK_KEY]} to submit feedback
+Feedback/type_feedback,Feedback
+Feedback/type_bug,Bug
+FileUtility/ps4_savedata_title,Keep Talking Save Data
+FileUtility/ps4_savedata_subtitle,Settings and Progression
+Fonts/ALL-LANG-Cabin-Bold SDF,Cabin-Bold SDF
+Fonts/ALL-LANG-Cabin-Medium SDF,Cabin-Medium SDF
+Fonts/ALL-LANG-OstrichSans-Heavy SDF,OstrichSans-Heavy SDF
+Fonts/ALL-LANG-SpecialElite SDF,SpecialElite SDF
+Fonts/Bowlby SDF Stamp Texture Mat,BowlbyOneSC-Regular SDF Stamp Texture
+Fonts/Cabin-Bold SDF,Cabin-Bold SDF Material
+Fonts/Cabin-Medium SDF,Cabin-Medium SDF Material
+Fonts/Cabin-Medium SDF - Underlay,Cabin-Medium SDF - Underlay
+Fonts/DayPosterBlack SDF,DayPosterBlack SDF
+Fonts/DayPosterBlack SDF - Outline,DayPosterBlack SDF - Outline
+Fonts/LiberationSans BombBinder SDF,LiberationSans BombBinder SDF
+Fonts/OstrichSans-Heavy SDF,OstrichSans-Heavy SDF
+Fonts/Righteous-Regular SDF,Righteous-Regular SDF
+Fonts/Righteous-Regular SDF Shadow,Righteous-Regular SDF Shadow
+Fonts/Silkscreen SDF,Silkscreen SDF
+Fonts/SpecialElite SDF,SpecialElite SDF
+Fonts/SpecialElite SDF - Default Transparent Queue,SpecialElite SDF - Default Transparent Queue
+Fonts/saxmono SDF,saxmono SDF
+FreeplayDevice/button_start,START
+FreeplayDevice/label_estimatedDifficulty,"ESTIMATED
+DIFFICULTY"
+FreeplayDevice/label_freePlayCover,Free Play
+FreeplayDevice/label_freeplayInnerTitle,FREE PLAY
+FreeplayDevice/label_hardcore,HARDCORE
+FreeplayDevice/label_modsOnly,"MODS
+ONLY
+"
+FreeplayDevice/label_modules,Modules
+FreeplayDevice/label_needy,NEEDY
+FreeplayDevice/label_off,OFF
+FreeplayDevice/label_on,ON
+FreeplayDevice/label_time,Time
+FreeplayDevice/screen_accessibilityVetos,"ACCESSIBILITY VETOS
+
+{[VETOS]}"
+FreeplayDevice/screen_hardcore,"HARDCORE MODE:
+
+First strike will
+trigger explosion"
+FreeplayDevice/screen_modsOnly,"MODS ONLY:
+
+Only modded modules
+will appear on bomb"
+FreeplayDevice/screen_modules,"MODULES:
+
+Number of modules
+on the bomb"
+FreeplayDevice/screen_needy,"NEEDY MODULES:
+
+Needy modules
+cannot be disarmed,
+but pose a
+recurrent hazard"
+FreeplayDevice/screen_time,"TIME:
+
+Time before the
+bomb explodes"
+GameOverview/label_theBombDefusalManual,"The Bomb
+Defusal Manual"
+GameOverview/label_theDefuser,"The
+Defuser"
+GameOverview/label_theDefuserIsNotAllowedToLookAtTheManual,The Defuser is not allowed to look at the manual.
+GameOverview/label_theExperts,"The
+Experts"
+GameOverview/label_theExpertsAreNotAllowedToLookAtTheScreen,The Experts are not allowed to look at the screen.
+GameOverview/label_theExpertsCanFindTheManualAt,The Experts can find the Bomb Defusal Manual at:
+GameOverview/label_theExpertsCanViewOnComputerOrFind,The Experts can view the Bomb Defusal Manual on your computer screen or at
+GameOverview/label_theExpertsCanViewOnTVOrFind,The Experts can view the Bomb Defusal Manual on your TV screen or at
+GameOverview/label_thisIsALocalMultiplayerGame,This is a local multiplayer game for two or more players.
+GameOverview/label_tryFunWays,"Try fun ways to keep the Defuser isolated, but within earshot of the Experts."
+GameOverview/label_youAreTheBombDefuser,You are the bomb Defuser. Your goal is to defuse a bomb with the help of your friends.
+GameOverview/label_yourFriendsAreTheExperts,Your friends are the Experts who guide you by using the Bomb Defusal Manual.
+General/EMPTY,---
+General/bombManualURL,www.BombManual.com
+General/button_cancel,Cancel
+General/button_changeProfile,Change Profile
+General/button_continue,Continue
+General/languageDisplayName,English
+General/language_ar,Arabic
+General/language_zh-CN,Simplified Chinese
+General/language_zh-TW,Traditional Chinese
+General/language_cs,Czech
+General/language_da,Danish
+General/language_en,English
+General/language_eo,Esperanto
+General/language_es,Spanish
+General/language_fi,Finnish
+General/language_fr,French
+General/language_de,German
+General/language_he,Hebrew
+General/language_hu,Hungarian
+General/language_it,Italian
+General/language_ja,Japanese
+General/language_ko,Korean
+General/language_nb,Norwegian
+General/language_nl,Dutch
+General/language_pl,Polish
+General/language_pt-BR,Portuguese-Brazil
+General/language_pt-PT,Portuguese-Portugal
+General/language_ro,Romanian
+General/language_ru,Russian
+General/language_sv,Swedish
+General/language_th,Thai
+General/language_tr,Turkish
+General/language_uk,Ukrainian
+General/menu_back,Back
+General/menu_finish,Finish
+General/menu_next,Next
+General/menu_ok,OK
+General/menu_previous,Previous
+General/missingchar,□
+General/shareManual_EmailSubject,Keep Talking and Nobody Explodes Game Manual
+General/shareManual_ShareTitle,Share the Keep Talking and Nobody Explodes manual
+General/shareManual_shareButton,{[SHARE_ICON]} SHARE
+General/shareManual_shareManualButton,{[SHARE_ICON]} Share Manual
+IndicatorWidget/LABEL1,SND
+IndicatorWidget/LABEL10,BOB
+IndicatorWidget/LABEL11,FRK
+IndicatorWidget/LABEL12,NLL
+IndicatorWidget/LABEL2,CLR
+IndicatorWidget/LABEL3,CAR
+IndicatorWidget/LABEL4,IND
+IndicatorWidget/LABEL5,FRQ
+IndicatorWidget/LABEL6,SIG
+IndicatorWidget/LABEL7,NSA
+IndicatorWidget/LABEL8,MSA
+IndicatorWidget/LABEL9,TRN
+InteractiveManual/PS4Options,PS4-Options
+InteractiveManual/button_openModManualFolder,Open Mod Manual Folder
+InteractiveManual/controls_back,Back:
+InteractiveManual/controls_bindingGamepadLTRT,LT / RT
+InteractiveManual/controls_bindingKeyboardBackspace,Backspace
+InteractiveManual/controls_bindingKeyboardMinusEquals,Minus / Equals
+InteractiveManual/controls_bindingKeyboardSpace,Space
+InteractiveManual/controls_bindingKeyboardT,T
+InteractiveManual/controls_bindingKeyboardUpDown,Up / Down
+InteractiveManual/controls_bindingKeyboardUpDownLeftRight,Up / Down / Left / Right
+InteractiveManual/controls_changePage,Change Page
+InteractiveManual/controls_changePageSlashPan,Change Page / Pan
+InteractiveManual/controls_gridView,Grid View
+InteractiveManual/controls_pan,Pan
+InteractiveManual/controls_selectPage,Select Page
+InteractiveManual/controls_toggleTwoPageView,Toggle Two-Page View
+InteractiveManual/controls_zoom,Zoom
+InteractiveManual/label_controls,Controls:
+InteractiveManual/label_controlsPopupTitle,Controls
+InteractiveManual/label_gamepadXboxStartButton,/ START
+InteractiveManual/label_keyboardF1,F1
+InteractiveManual/label_warning,WARNING
+InteractiveManual/label_warningModsNotIncluded,Mod modules not included.
+InteractiveManual/pageLabel_Batteries,Appendix B: Battery Identification Reference
+InteractiveManual/pageLabel_Button,On the Subject of The Button
+InteractiveManual/pageLabel_Capacitor,On the Subject of Capacitor Discharge
+InteractiveManual/pageLabel_ComplicatedWires,On the Subject of Complicated Wires
+InteractiveManual/pageLabel_Defusing,Defusing Bombs
+InteractiveManual/pageLabel_Indicators,Appendix A: Indicator Identification Reference
+InteractiveManual/pageLabel_Introduction,Introduction
+InteractiveManual/pageLabel_Keypad,On the Subject of Keypads
+InteractiveManual/pageLabel_Knobs,On the Subject of Knobs
+InteractiveManual/pageLabel_Mazes,On the Subject of Mazes
+InteractiveManual/pageLabel_Memory,sona pi tenpo pini la
+InteractiveManual/pageLabel_Morse,On the Subject of Morse Code
+InteractiveManual/pageLabel_Passwords,On the Subject of Passwords
+InteractiveManual/pageLabel_PortIdentification,Appendix C: Port Identification Reference
+InteractiveManual/pageLabel_Section1,Section 1: Modules
+InteractiveManual/pageLabel_Section2,Section 2: Needy Modules
+InteractiveManual/pageLabel_Simon,"""o kute a"" la"
+InteractiveManual/pageLabel_Title,Title Page
+InteractiveManual/pageLabel_Venting,On the Subject of Venting Gas
+InteractiveManual/pageLabel_WhosOnFirst1,On the Subject of Who's On First 1
+InteractiveManual/pageLabel_WhosOnFirst2,On the Subject of Who's On First 2
+InteractiveManual/pageLabel_WireSequence,On the Subject of Wire Sequences
+InteractiveManual/pageLabel_Wires,On the Subject of Wires
+InteractiveManual/texture_MANUAL_01,man-en-pg-01
+InteractiveManual/texture_MANUAL_02,man-en-pg-02
+InteractiveManual/texture_MANUAL_03,man-en-pg-03
+InteractiveManual/texture_MANUAL_04,man-en-pg-04
+InteractiveManual/texture_MANUAL_05,man-en-pg-05
+InteractiveManual/texture_MANUAL_06,man-en-pg-06
+InteractiveManual/texture_MANUAL_07,man-en-pg-07
+InteractiveManual/texture_MANUAL_08,man-en-pg-08
+InteractiveManual/texture_MANUAL_09,man-en-pg-09
+InteractiveManual/texture_MANUAL_10,man-en-pg-10
+InteractiveManual/texture_MANUAL_11,man-en-pg-11
+InteractiveManual/texture_MANUAL_12,man-en-pg-12
+InteractiveManual/texture_MANUAL_13,man-en-pg-13
+InteractiveManual/texture_MANUAL_14,man-en-pg-14
+InteractiveManual/texture_MANUAL_15,man-en-pg-15
+InteractiveManual/texture_MANUAL_16,man-en-pg-16
+InteractiveManual/texture_MANUAL_17,man-en-pg-17
+InteractiveManual/texture_MANUAL_18,man-en-pg-18
+InteractiveManual/texture_MANUAL_19,man-en-pg-19
+InteractiveManual/texture_MANUAL_20,man-en-pg-20
+InteractiveManual/texture_MANUAL_21,man-en-pg-21
+InteractiveManual/texture_MANUAL_22,man-en-pg-22
+InteractiveManual/texture_MANUAL_23,man-en-pg-23
+KeypadComponent/texture_SYMBOL1,1-copyright
+KeypadComponent/texture_SYMBOL10,10-teepee
+KeypadComponent/texture_SYMBOL11,11-six
+KeypadComponent/texture_SYMBOL12,12-squigglyn
+KeypadComponent/texture_SYMBOL13,13-at
+KeypadComponent/texture_SYMBOL14,14-ae
+KeypadComponent/texture_SYMBOL15,15-meltedthree
+KeypadComponent/texture_SYMBOL16,16-euro
+KeypadComponent/texture_SYMBOL17,17-circle
+KeypadComponent/texture_SYMBOL18,18-nwithhat
+KeypadComponent/texture_SYMBOL19,19-dragon
+KeypadComponent/texture_SYMBOL2,2-filledstar
+KeypadComponent/texture_SYMBOL20,20-questionmark
+KeypadComponent/texture_SYMBOL21,21-paragraph
+KeypadComponent/texture_SYMBOL22,22-rightc
+KeypadComponent/texture_SYMBOL23,23-leftc
+KeypadComponent/texture_SYMBOL24,24-pitchfork
+KeypadComponent/texture_SYMBOL25,25-tripod
+KeypadComponent/texture_SYMBOL26,26-cursive
+KeypadComponent/texture_SYMBOL27,27-tracks
+KeypadComponent/texture_SYMBOL28,28-balloon
+KeypadComponent/texture_SYMBOL29,29-weirdnose
+KeypadComponent/texture_SYMBOL3,3-hollowstar
+KeypadComponent/texture_SYMBOL30,30-upsidedowny
+KeypadComponent/texture_SYMBOL31,31-bt
+KeypadComponent/texture_SYMBOL4,4-smileyface
+KeypadComponent/texture_SYMBOL5,5-doublek
+KeypadComponent/texture_SYMBOL6,6-omega
+KeypadComponent/texture_SYMBOL7,7-squidknife
+KeypadComponent/texture_SYMBOL8,8-pumpkin
+KeypadComponent/texture_SYMBOL9,9-hookn
+LanguageSelect/label_beta,Beta!
+LanguageSelect/label_confirmation,"Each language uses a different Bomb Defusal Manual.
+
+After changing languages you must ensure you have the correct manual language and version by entering its verification code."
+LanguageSelect/label_confirmation_heading,"Each language uses a different Bomb Defusal Manual.
+{[NEW_LANGUAGE]} requires Version {[NEW_MANUAL_VERSION]}."
+LanguageSelect/label_confirmation_body,After changing languages you must ensure you have the correct manual language and version by entering its verification code.
+LanguageSelect/label_confirmation_body_PSVR,"Your TV screen will show this manual. If you have printed the manual or are viewing it on another device, make sure you are using Version {[NEW_MANUAL_VERSION]}."
+LanguageSelect/title_language,"<sprite=""Globe"" name=""Globe""> Language"
+LoadingScreen/label_defuserwarning_youreyesonly,"This screen is for your eyes only.
+
+You are not allowed to look at
+the Bomb Defusal Manual."
+Manual/appendix.refa,See Appendix A for indicator identification reference.
+Manual/appendix.refb,See Appendix B for battery identification reference.
+Manual/appendix.refc,See Appendix C for port identification reference.
+Manual/batteries.description,Common battery types can be found within enclosures on the sides of the bomb casing.
+Manual/batteries.headerbattery,Battery
+Manual/batteries.headertype,Type
+Manual/batteries.labelAA,AA
+Manual/batteries.labelD,D
+Manual/batteries.title,Appendix B: Battery Identification Reference
+Manual/bigbutton.flavour,You might think that a button telling you to press it is pretty straightforward. That’s the kind of thinking that gets people exploded.
+Manual/bigbutton.holdrulecolor1,Blue strip:
+Manual/bigbutton.holdrulecolor2,White strip:
+Manual/bigbutton.holdrulecolor3,Yellow strip:
+Manual/bigbutton.holdrulecolor4,Any other color strip:
+Manual/bigbutton.holdrulerelease1,release when the countdown timer has a 4 in any position.
+Manual/bigbutton.holdrulerelease2,release when the countdown timer has a 1 in any position.
+Manual/bigbutton.holdrulerelease3,release when the countdown timer has a 5 in any position.
+Manual/bigbutton.holdrulerelease4,release when the countdown timer has a 1 in any position.
+Manual/bigbutton.instruction,Follow these rules in the order they are listed. Perform the first action that applies:
+Manual/bigbutton.moduleicontext,[ TEXT ]
+Manual/bigbutton.releasingheader,Releasing a Held Button
+Manual/bigbutton.releasinginstruction,"If you start holding the button down, a colored strip will light up on the right side of the module. Based on its color, you must release the button at a specific point in time:"
+Manual/bigbutton.rule1,"If the button is blue and the button says ""Abort"", hold the button and refer to ""Releasing a Held Button""."
+Manual/bigbutton.rule2,"If there is more than 1 battery on the bomb and the button says ""Detonate"", press and immediately release the button."
+Manual/bigbutton.rule3,"If the button is white and there is a lit indicator with label CAR, hold the button and refer to ""Releasing a Held Button""."
+Manual/bigbutton.rule4,"If there are more than 2 batteries on the bomb and there is a lit indicator with label FRK, press and immediately release the button."
+Manual/bigbutton.rule5,"If the button is yellow, hold the button and refer to ""Releasing a Held Button""."
+Manual/bigbutton.rule6,"If the button is red and the button says ""Hold"", press and immediately release the button."
+Manual/bigbutton.rule7,"If none of the above apply, hold the button and refer to ""Releasing a Held Button""."
+Manual/bigbutton.title,On the Subject of The Button
+Manual/common.gametitle,Keep Talking and Nobody Explodes
+Manual/common.gametitlewithversion,Keep Talking and Nobody Explodes v. {version}
+Manual/common.htmltitle,Keep Talking and Nobody Explodes - Bomb Defusal Manual - {lang} - v{version}
+Manual/common.htmltitleunversioned,Keep Talking and Nobody Explodes - Bomb Defusal Manual - {lang}
+Manual/common.pagecount,Page {pageNum} of {pageCount}
+Manual/common.pdffilename,KeepTalkingandNobodyExplodes-BombDefusalManual-{lang}-v{version}
+Manual/indicators.description,Labelled indicator lights can be found on the sides of the bomb casing.
+Manual/indicators.headercommon,Common Indicators
+Manual/indicators.label1,SND
+Manual/indicators.label10,BOB
+Manual/indicators.label11,FRK
+Manual/indicators.label12,NLL
+Manual/indicators.label2,CLR
+Manual/indicators.label3,CAR
+Manual/indicators.label4,IND
+Manual/indicators.label5,FRQ
+Manual/indicators.label6,SIG
+Manual/indicators.label7,NSA
+Manual/indicators.label8,MSA
+Manual/indicators.label9,TRN
+Manual/indicators.labeltxt,[TOKI]
+Manual/indicators.title,Appendix A: Indicator Identification Reference
+Manual/intro.abombwillexplode,"tenpo li weka tan ilo tenpo, anu pali pakala mute li lon, la ilo pakala li pakala. nasin taso pi pona ona li pona pi ilo lili ale ona lon pini ala pi ilo tenpo."
+Manual/intro.defusingbombs,pona pi ilo pakala
+Manual/intro.eachbomb,lon ilo pakala wan la ilo lili mute pi weka pakala li lon. o pona e ilo lili ni. nasin tenpo pi ilo lili li lon ala. sina ken pona e ona lon tenpo wile. 
+Manual/intro.gatheringinfo,alasa sona
+Manual/intro.header-defusing-bombs,pona pi ilo pakala
+Manual/intro.instructionfordisarming,"nasin pi pona ona li lon kulupu lipu nanpa wan. ilo pi lukin awen li ante, li lon kulupu lipu nanpa tu."
+Manual/intro.label-example-bomb,ilo pakala li sama ni:
+Manual/intro.label-front,sinpin
+Manual/intro.label-serialnumber,[NANPA ILO]
+Manual/intro.label-side,poka
+Manual/intro.labelstrike,sona pi nanpa pakala
+Manual/intro.mistake,"jan pi pona ilo li pali ike, la ilo li suli e nanpa pakala. sona pi nanpa pakala li lon sewi pi ilo tenpo. ona li lon la ilo li pakala lon pali ike nanpa tu wan. pali ike li lon la ilo tenpo li kama wawa."
+Manual/intro.modules,ilo pi weka pakala
+Manual/intro.nostrikeindicator,sona pi nanpa pakala li lon ala la ilo li pakala lon pali ike nanpa wan. sina ken ala pali ike.
+Manual/intro.someinstructions,"tenpo la nasin pi pona ilo li wile e sona ilo, e nanpa ilo. sona ni li lon sewi, lon anpa, lon poka pi selo ilo. o lukin e lipu pini A, B, C tawa nasin pi sona ilo. ni li ken pona tawa pona ilo."
+Manual/intro.strikes,pali ike
+Manual/intro.studycarefully,o lukin pona e lipu ni: <em>sina jan sona</em>. lon lipu ni la sina ken kama sona e sona ale pi nasin pona ilo.<br/>o awen sona e ni — pali ike wan la ale li ken pakala!
+Manual/intro.welcome,o kama pona tawa nasin ike wawa pi pona ilo.
+Manual/keypad.flavour,"I'm not sure what these symbols are, but I suspect they have something to do with occult."
+Manual/keypad.instruction1,Only one column below has all four of the symbols from the keypad.
+Manual/keypad.instruction2,Press the four buttons in the order their symbols appear from top to bottom within that column.
+Manual/keypad.title,On the Subject of Keypads
+Manual/maze.flavour,"This seems to be some kind of maze, probably stolen off of a restaurant placemat."
+Manual/maze.instruction1,Find the maze with matching circular markings.
+Manual/maze.instruction2,The defuser must navigate the white light to the red triangle using the arrow buttons.
+Manual/maze.instruction3,<strong>Warning:</strong> Do not cross the lines shown in the maze. These lines are invisible on the bomb.
+Manual/maze.title,On the Subject of Mazes
+Manual/memory.flavour,sona pi tenpo pini li pakala lon tenpo mute. taso ijo ale li ni lon pakala ilo. ni la o sona wawa!
+Manual/memory.instruction1,sina luka e nena pona la sina kama tawa tenpo nanpa sin. sina pali pona lon tenpo ale la ilo lili li kama pona.
+Manual/memory.instruction2,sina pali ike la ilo lili li tawa tenpo nanpa wan.
+Manual/memory.instruction3,toki pi lon nena li tan poka open li tawa poka pini.
+Manual/memory.rulebuttonindexpushedinpreviousstage,ilo li toki e {displaydigit} la o luka e nena ni: lon ona li sama nena pona pi tenpo nanpa (stage).
+Manual/memory.rulepressbuttonlabelled,"ilo li toki e {displaydigit} la o luka e nena pi nimi ""{digit}""."
+Manual/memory.rulepressbuttonlabelpushedinpreviousstage,ilo li toki e {displaydigit} la o luka e nena ni: nimi ona li sama nena pona pi tenpo nanpa {stage}.
+Manual/memory.rulepressfirstposition,ilo li toki e {displaydigit} la o luka e nena nanpa wan.
+Manual/memory.rulepresssecondposition,ilo li toki e {displaydigit} la o luka e nena nanpa tu.
+Manual/memory.rulepressthirdposition,ilo li toki e {displaydigit} la o luka e nena nanpa tu wan.
+Manual/memory.rulepressfourthposition,ilo li toki e {displaydigit} la o luka e nena nanpa tu tu.
+Manual/memory.stagenumber,tenpo nanpa {stage}:
+Manual/memory.title,sona pi tenpo pini la
+Manual/morse.flavour,"An antiquated form of naval communication? What next? At least it's genuine Morse Code, so pay attention and you might just learn something."
+Manual/morse.frequency,{frequency} MHz
+Manual/morse.howtointerpret1,1. A short flash represents a dot.
+Manual/morse.howtointerpret2,2. A long flash represents a dash.
+Manual/morse.howtointerpret3,3. There is a long gap between letters.
+Manual/morse.howtointerpret4,4. There is a very long gap before the word repeats.
+Manual/morse.howtointerpretheader,How to Interpret
+Manual/morse.instruction1,Interpret the signal from the flashing light using the Morse Code chart to spell one of the words in the table.
+Manual/morse.instruction2,"The signal will loop, with a long gap between repetitions."
+Manual/morse.instruction3,"Once the word is identified, set the corresponding frequency and press the transmit (TX) button."
+Manual/morse.tableheader1,If the word is:
+Manual/morse.tableheader2,Respond at frequency:
+Manual/morse.title,On the Subject of Morse Code
+Manual/needycap.flavour,"I'm going to guess that this is just meant to occupy your attention, because otherwise this is some shoddy electronics work."
+Manual/needycap.instruction1,Discharge the capacitor before it overloads by holding down the lever.
+Manual/needycap.title,On the Subject of Capacitor Discharge
+Manual/needygas.flavour,"Computer hacking is hard work! Well, it usually is. This job could probably be performed by a simple drinking bird pressing the same key over and over again."
+Manual/needygas.instruction1,"Respond to the computer prompts by pressing ""Y"" for ""Yes"" or ""N"" for ""No""."
+Manual/needygas.moduleicontext,[ TEXT ]
+Manual/needygas.title,On the Subject of Venting Gas
+Manual/needyknob.flavour,Needlessly complicated and endlessly needy. Imagine if such expertise were used to make something other than diabolical puzzles.
+Manual/needyknob.instruction1,The knob can be turned to one of four different positions.
+Manual/needyknob.instruction2,The knob must be in the correct position when this module's timer hits zero.
+Manual/needyknob.instruction3,The correct position can be determined by the on/off configuration of the twelve LEDs.
+Manual/needyknob.instruction4,"Knob positions are relative to the ""UP"" label, which may have rotated."
+Manual/needyknob.ledconfigs,LED Configurations
+Manual/needyknob.positiondown,Down Position
+Manual/needyknob.positionleft,Left Position
+Manual/needyknob.positionright,Right Position
+Manual/needyknob.positionup,Up Position
+Manual/needyknob.symbollegend,X = Lit LED
+Manual/needyknob.title,On the Subject of Knobs
+Manual/pageheader.appendixa,lipu pini A
+Manual/pageheader.appendixb,lipu pini B
+Manual/pageheader.appendixc,lipu pini C
+Manual/pageheader.bigbutton,The Button
+Manual/pageheader.introduction,toki open
+Manual/pageheader.keypad,Keypads
+Manual/pageheader.maze,Mazes
+Manual/pageheader.memory,Memory
+Manual/pageheader.morse,Morse Code
+Manual/pageheader.needycap,Capacitor Discharge
+Manual/pageheader.needygas,Venting Gas
+Manual/pageheader.needyknob,Knobs
+Manual/pageheader.password,Passwords
+Manual/pageheader.section1,Section 1: Modules
+Manual/pageheader.section2,Section 2: Needy Modules
+Manual/pageheader.simon,o kute a
+Manual/pageheader.venn,Complicated Wires
+Manual/pageheader.whosonfirst,Who's on First
+Manual/pageheader.wires,Wires
+Manual/pageheader.wiresequence,Wire Sequences
+Manual/password.flavour,"Fortunately this password doesn't seem to meet standard government security requirements: 22 characters, mixed case, numbers in random order without any palindromes above length 3."
+Manual/password.instruction1,The buttons above and below each letter will cycle through the possibilities for that position.
+Manual/password.instruction2,Only one combination of the available letters will match a password below.
+Manual/password.instruction3,Press the submit button once the correct word has been set.
+Manual/password.moduleiconletter,A
+Manual/password.title,On the Subject of Passwords
+Manual/ports.description,Digital and analog ports can be found on sides of the bomb casing.
+Manual/ports.headername,Name
+Manual/ports.headerport,Port
+Manual/ports.labeldvid,DVI-D
+Manual/ports.labelparallel,Parallel
+Manual/ports.labelps2,PS/2
+Manual/ports.labelrca,Stereo RCA
+Manual/ports.labelrj45,RJ-45
+Manual/ports.labelserial,Serial
+Manual/ports.title,Appendix C: Port Identification Reference
+Manual/section1.instruction1,"Modules can be identified by an LED in the top right corner. When this LED is lit green, the module has been disarmed."
+Manual/section1.instruction2,All modules must be disarmed to defuse the bomb.
+Manual/section1.title,Section 1: Modules
+Manual/section2.instruction1,"Needy modules cannot be disarmed, but pose a recurrent hazard."
+Manual/section2.instruction2,"Needy modules can be identified as a module with a small 2‑digit timer in the top center. Interacting with the bomb may cause them to become activated. Once activated, these needy modules must be tended to regularly before their timer expires in order to prevent a strike."
+Manual/section2.instruction3,Stay observant: needy modules may reactivate at any time.
+Manual/section2.title,Section 2: Needy Modules
+Manual/simon.1strike,pakala wan
+Manual/simon.2strikes,pakala tu
+Manual/simon.blue,laso sewi
+Manual/simon.blueflash,suno pi laso sewi
+Manual/simon.buttontopress,nena wile:
+Manual/simon.colorsalttext,"sewi: laso sewi, poka open: loje, poka pini: jelo, anpa: laso kasi"
+Manual/simon.flavour,"ilo ni li nasa a. ona li toki kepeken suno. sina o kute e ona. seme la ni li musi? kin la, suno ona li toki ala e wile ona kepeken kule sama. nasa a."
+Manual/simon.green,laso kasi
+Manual/simon.greenflash,suno pi laso kasi
+Manual/simon.instruction1,nena wan li suno
+Manual/simon.instruction2,sitelen anpa ni li toki e ni: suno kule li wile e kule seme
+Manual/simon.instruction3,"nena open li suno, nena sin li suno kin. o awen kute e ona kepeken sitelen ni."
+Manual/simon.instruction4,sina kute pona e ona la kulupu pi wile ilo li kama suli. o awen ni la ilo li kama pona
+Manual/simon.instructionnovowel,nanpa poki li jo <em> ala </em> e kalama a e i o u la:
+Manual/simon.instructionvowel,nanpa poki li jo e kalama a e i o u la:
+Manual/simon.nostrikes,pakala ala
+Manual/simon.red,loje
+Manual/simon.redflash,suno loje
+Manual/simon.title,ilo pi wile kute la
+Manual/simon.yellow,jelo
+Manual/simon.yellowflash,suno jelo
+Manual/title.manual,Bomb Defusal Manual
+Manual/title.verificationcode,Verification Code: {verificationCode}
+Manual/title.version,Version {version}
+Manual/title.gamedisclaimer,Video game companion manual. Find out more at www.keeptalkinggame.com
+Manual/venn.flavour,These wires aren't like the others. Some have stripes! That makes them completely different. The good news is that we've found a concise set of instructions on what to do about it! Maybe too concise...
+Manual/venn.instruction1,"Look at each wire: there is an LED above the wire and a space for a ""★"" symbol below the wire."
+Manual/venn.instruction2,"For <b>each</b> wire/LED/symbol combination, use the Venn diagram below to decide whether or not to cut the wire."
+Manual/venn.instruction3,Each wire may be striped with multiple colors.
+Manual/venn.instructionbatteries,Cut the wire if the bomb has two or more batteries
+Manual/venn.instructioncut,Cut the wire
+Manual/venn.instructiondonotcut,Do not cut the wire
+Manual/venn.instructionparallel,Cut the wire if the bomb has a parallel port
+Manual/venn.instructionserial,Cut the wire if the last digit of the serial number is even
+Manual/venn.legendblue,Wire has blue coloring
+Manual/venn.legendled,LED is on
+Manual/venn.legendred,Wire has red coloring
+Manual/venn.legendsymbol,Has ★ symbol
+Manual/venn.symbolbattery,B
+Manual/venn.symbolcut,C
+Manual/venn.symboldonotcut,D
+Manual/venn.symbolparallel,P
+Manual/venn.symbolserial,S
+Manual/venn.tableheaderinstruction,Instruction
+Manual/venn.tableheaderletter,Letter
+Manual/venn.title,On the Subject of Complicated Wires
+Manual/whosonfirst.flavour,"This contraption is like something out of a sketch comedy routine, which might be funny if it wasn't connected to a bomb. I’ll keep this brief, as words only complicate matters."
+Manual/whosonfirst.instruction1,Read the display and use step 1 to determine which button label to <u>read</u>.
+Manual/whosonfirst.instruction2,"Using this button label, use step 2 determine which button to <u>push</u>."
+Manual/whosonfirst.instruction3,Repeat until the module has been disarmed.
+Manual/whosonfirst.lookatalttext,Look At
+Manual/whosonfirst.moduleicondisplay,[ DISPLAY ]
+Manual/whosonfirst.moduleicontext,[ TEXT ]
+Manual/whosonfirst.step1,Step 1:
+Manual/whosonfirst.step1details,"Based on the display, <u>read</u> the label of a particular button and proceed to step 2:"
+Manual/whosonfirst.step2,Step 2:
+Manual/whosonfirst.step2details,"Using the label from step 1, <u>push the first button</u> that appears in its corresponding list:"
+Manual/whosonfirst.title,On the Subject of Who’s on First
+Manual/wires.3wiresrule_1,"If there are no red wires, cut the second wire."
+Manual/wires.3wiresrule_2,"Otherwise, if the last wire is white, cut the last wire."
+Manual/wires.3wiresrule_3,"Otherwise, if there is more than one blue wire, cut the last blue wire."
+Manual/wires.3wiresrule_4,"Otherwise, cut the last wire."
+Manual/wires.4wiresrule_1,"If there is more than one red wire and the last digit of the serial number is odd, cut the last red wire."
+Manual/wires.4wiresrule_2,"Otherwise, if the last wire is yellow and there are no red wires, cut the first wire."
+Manual/wires.4wiresrule_3,"Otherwise, if there is exactly one blue wire, cut the first wire."
+Manual/wires.4wiresrule_4,"Otherwise, if there is more than one yellow wire, cut the last wire."
+Manual/wires.4wiresrule_5,"Otherwise, cut the second wire."
+Manual/wires.5wiresrule_1,"If the last wire is black and the last digit of the serial number is odd, cut the fourth wire."
+Manual/wires.5wiresrule_2,"Otherwise, if there is exactly one red wire and there is more than one yellow wire, cut the first wire."
+Manual/wires.5wiresrule_3,"Otherwise, if there are no black wires, cut the second wire."
+Manual/wires.5wiresrule_4,"Otherwise, cut the first wire."
+Manual/wires.6wiresrule_1,"If there are no yellow wires and the last digit of the serial number is odd, cut the third wire."
+Manual/wires.6wiresrule_2,"Otherwise, if there is exactly one yellow wire and there is more than one white wire, cut the fourth wire."
+Manual/wires.6wiresrule_3,"Otherwise, if there are no red wires, cut the last wire."
+Manual/wires.6wiresrule_4,"Otherwise, cut the fourth wire."
+Manual/wires.flavour,"Wires are the lifeblood of electronics! Wait, no, electricity is the lifeblood. Wires are more like the arteries. The veins? No matter…"
+Manual/wires.instruction1,A wire module can have 3-6 wires on it.
+Manual/wires.instruction2,Only the <em>one</em> correct wire needs to be cut to disarm the module.
+Manual/wires.instruction3,Wire ordering begins with the first on the top.
+Manual/wires.numwires3,3 wires:
+Manual/wires.numwires4,4 wires:
+Manual/wires.numwires5,5 wires:
+Manual/wires.numwires6,6 wires:
+Manual/wires.title,On the Subject of Wires
+Manual/wiresequence.blackoccurencesheader,lon pi linja pimeja
+Manual/wiresequence.blackoccurrence1,linja pimeja lon tenpo nanpa wan
+Manual/wiresequence.blackoccurrence2,linja pimeja lon tenpo nanpa tu
+Manual/wiresequence.blackoccurrence3,linja pimeja lon tenpo nanpa tu wan
+Manual/wiresequence.blackoccurrence4,linja pimeja lon tenpo nanpa tu tu
+Manual/wiresequence.blackoccurrence5,linja pimeja lon tenpo nanpa luka
+Manual/wiresequence.blackoccurrence6,linja pimeja lon tenpo nanpa luka wan
+Manual/wiresequence.blackoccurrence7,linja pimeja lon tenpo nanpa luka tu
+Manual/wiresequence.blackoccurrence8,linja pimeja lon tenpo nanpa luka tu wan
+Manual/wiresequence.blackoccurrence9,linja pimeja lon tenpo nanpa luka tu tu
+Manual/wiresequence.blueoccurencesheader,lon pi linja laso
+Manual/wiresequence.blueoccurrence1,linja laso lon tenpo nanpa wan
+Manual/wiresequence.blueoccurrence2,linja laso lon tenpo nanpa tu
+Manual/wiresequence.blueoccurrence3,linja laso lon tenpo nanpa tu wan
+Manual/wiresequence.blueoccurrence4,linja laso lon tenpo nanpa tu tu
+Manual/wiresequence.blueoccurrence5,linja laso lon tenpo nanpa luka
+Manual/wiresequence.blueoccurrence6,linja laso lon tenpo nanpa luka wan
+Manual/wiresequence.blueoccurrence7,linja laso lon tenpo nanpa luka tu 
+Manual/wiresequence.blueoccurrence8,linja laso lon tenpo nanpa luka tu wan
+Manual/wiresequence.blueoccurrence9,linja laso lon tenpo nanpa luka tu tu
+Manual/wiresequence.cutheader,o kipisi lon ni:
+Manual/wiresequence.flavour,"ilo ni li pali kepeken nasin seme? pali ona li wawa a, taso nasin pona pi pali ni li lon tawa linja luka tu tu, anu seme."
+Manual/wiresequence.instruction1,lon ilo lili ni la linja mute li lon sitelen mute. lon tenpo wan la sina ken lukin e sitelen wan taso. o tawa sitelen anpa kepeken nena anpa. o tawa sitelen sewi kepeken nena sewi.
+Manual/wiresequence.instruction2,sina kipisi ala e linja wile ale o tawa sitelen ante ala.
+Manual/wiresequence.instruction3,"o kipisi e linja kepeken nasin ni. tenpo nanpa lon li sin ala lon ante sitelen, li ale lon ilo lili wan."
+Manual/wiresequence.redoccurencesheader,lon pi linja loje
+Manual/wiresequence.redoccurrence1,linja loje lon tenpo nanpa wan
+Manual/wiresequence.redoccurrence2,linja loje lon tenpo nanpa tu
+Manual/wiresequence.redoccurrence3,linja loje lon tenpo nanpa tu wan
+Manual/wiresequence.redoccurrence4,linja loje lon tenpo nanpa tu tu
+Manual/wiresequence.redoccurrence5,linja loje lon tenpo nanpa luka
+Manual/wiresequence.redoccurrence6,linja loje lon tenpo nanpa luka wan
+Manual/wiresequence.redoccurrence7,linja loje lon tenpo nanpa luka tu
+Manual/wiresequence.redoccurrence8,linja loje lon tenpo nanpa luka tu wan
+Manual/wiresequence.redoccurrence9,linja loje lon tenpo nanpa luka tu tu
+Manual/wiresequence.rulecuta,A
+Manual/wiresequence.rulecutab,A anu B
+Manual/wiresequence.rulecutabc,A anu B anu C
+Manual/wiresequence.rulecutac,A anu C
+Manual/wiresequence.rulecutb,B
+Manual/wiresequence.rulecutbc,B anu C
+Manual/wiresequence.rulecutc,C
+Manual/wiresequence.title,nasin lon pi linja mute la
+Manual/wiresequence.wireoccurrenceheader,tenpo nanpa pi linja lon
+ManualHoldable/button_viewmanual,VIEW MANUAL
+ManualHoldable/button_view,VIEW
+ManualHoldable/label_description,"If your friend needs help defusing a bomb, you can use this manual instead of visiting"
+ManualHoldable/label_manualcover,Manual
+ManualHoldable/label_title,Bomb Defusal Manual
+MemoryComponent/label_1,1
+MemoryComponent/label_2,2
+MemoryComponent/label_3,3
+MemoryComponent/label_4,4
+Misc/filesize_B,B
+Misc/filesize_EB,EB
+Misc/filesize_GB,GB
+Misc/filesize_KB,KB
+Misc/filesize_MB,MB
+Misc/filesize_PB,PB
+Misc/filesize_TB,TB
+Missions/DebugToCName,Debug
+Missions/DefaultToCName,Missions
+Missions/Section_Challenging,Challenging
+Missions/Section_Debug,[DEBUG BOMBS]
+Missions/Section_Exotic,Exotic
+Missions/Section_Extreme,Extreme
+Missions/Section_Introduction,Introduction
+Missions/Section_Moderate,Moderate
+Missions/Section_Needy,Needy
+Missions/Section_TheBasics,The Basics
+Missions/ahiddenmessage_Description,"Information can be obscured in ways that are time-consuming to decode. 
+
+In the world of bomb defusing, that's a bad thing."
+Missions/ahiddenmessage_DisplayName,A Hidden Message
+Missions/amazing_Description,"Apologies for making light of your predicament.
+
+It was punintentional."
+Missions/amazing_DisplayName,A-maze-ing
+Missions/appliedtheory_Description,"In theory, you should be able to re-use knowledge to make this easier. In practice..."
+Missions/appliedtheory_DisplayName,Applied Theory
+Missions/asmallwrinkle_Description,"Something is different about this bomb, and it demands attention."
+Missions/asmallwrinkle_DisplayName,A Small Wrinkle
+Missions/blinkenlights_Description,The colors! I hope you can enjoy this on as many levels as I do.
+Missions/blinkenlights_DisplayName,Blinkenlights
+Missions/blinkenlightstwo_Description,Please keep still and only watch astonished the blinkenlights.
+Missions/blinkenlightstwo_DisplayName,Blinkenlights II
+Missions/controlstutorial_Description,"Learn the controls of the game; an important step towards not exploding!
+
+This was shown when the game was first launched."
+Missions/controlstutorial_DisplayName,Controls Tutorial
+Missions/doubletrouble_Description,Some bombs let you work at your own pace. This is not one of those bombs.
+Missions/doubletrouble_DisplayName,Double Trouble
+Missions/doubleyourmoney_Description,The task is clear but the timer doesn't care about your workload.
+Missions/doubleyourmoney_DisplayName,Double Your Money
+Missions/eightminutes_Description,"Eight modules, eight minutes. Take your time. Relax.
+
+(Note: never relax when defusing a bomb.)"
+Missions/eightminutes_DisplayName,Eight Minutes
+Missions/fairgame_Description,"No more hand-holding. Remember everything you've learned, because anything can appear on this bomb."
+Missions/fairgame_DisplayName,Fair Game
+Missions/fiendish_Description,You have all the experience you need to defuse this. You just need to execute.
+Missions/fiendish_DisplayName,Fiendish
+Missions/firsttime_Description,"Everybody has to start somewhere. Let's just hope it doesn't end here too.
+
+Make sure your experts have the manual and are ready to help."
+Missions/firsttime_DisplayName,ijo pakala nanpa wan
+Missions/freeplay_DisplayName,Free Play
+Missions/gameoverviewtutorial_Description,"A brief overview of Keep Talking and Nobody Explodes and the roles of each player.
+
+This was shown when the game was first launched."
+Missions/gameoverviewtutorial_DisplayName,Game Overview & Roles
+Missions/giantleap_Description,"60% of the time, this bomb explodes every time."
+Missions/giantleap_DisplayName,One Giant Leap
+Missions/iamhardcore_Description,A bomb for true experts.
+Missions/iamhardcore_DisplayName,I am Hardcore
+Missions/juggler_Description,"It's a bit like trying to be in two places at once, except this is a bomb."
+Missions/juggler_DisplayName,Juggler
+Missions/multitasker_Description,An extra arm would really help here.
+Missions/multitasker_DisplayName,Multi-tasker
+Missions/noroomforerror_Description,One mistake and it's all over. Wipe the sweat off your palms and try not to let it get to you.
+Missions/noroomforerror_DisplayName,No Room for Error
+Missions/onestepup_Description,"For those who have made it this far and want something tougher, but not too tough."
+Missions/onestepup_DisplayName,One Step Up
+Missions/onewitheverything_Description,A true test of teamwork that requires all-around competency.
+Missions/onewitheverything_DisplayName,One with Everything
+Missions/payattention_Description,Keep your eye on the prize! And also the clock.
+Missions/payattention_DisplayName,Pay Attention
+Missions/pickupthepace_Description,"Reading this only uses up time you don't have. 
+
+Chop chop."
+Missions/pickupthepace_DisplayName,Pick up the Pace
+Missions/pickupthepacefour_Description,Gotta go fast.
+Missions/pickupthepacefour_DisplayName,Pick up the Pace IV
+Missions/pickupthepacethree_Description,NO TIME!
+Missions/pickupthepacethree_DisplayName,Pick up the Pace III
+Missions/pickupthepacetwo_Description,Rdng ths nly uses time u dnt hve.
+Missions/pickupthepacetwo_DisplayName,Pick up the Pace II
+Missions/rainbowtable_Description,You're going to need some help cracking this one.
+Missions/rainbowtable_DisplayName,Rainbow Table
+Missions/rtfm_Description,Note: Venting prevents explosion.
+Missions/rtfm_DisplayName,Computer Hacking
+Missions/snipsnap_Description,"With crisp communication and a steady hand, you'll be fine. Maybe."
+Missions/snipsnap_DisplayName,Snip Snap
+Missions/somethingoldsomethingnew_Description,"When did seeing a familiar bomb become comforting? 
+
+No matter. This bomb will only be half-comforting."
+Missions/somethingoldsomethingnew_DisplayName,"Something Old, Something New"
+Missions/somethingsdifferent_Description,Do these wires look different to you? Does this bomb look exploded to you?
+Missions/somethingsdifferent_DisplayName,Something's Different
+Missions/theknob_Description,Needy knobs need the most attention.
+Missions/theknob_DisplayName,The Knob
+Missions/whosonfirst_Description,Ambiguity and bombs are a dangerous combination.
+Missions/whosonfirst_DisplayName,Who's on First?
+Missions/wireseverywhere_Description,It's a rats nest. Cut carefully.
+Missions/wireseverywhere_DisplayName,Wires! Wires Everywhere!
+ModManager/button_BrowseItems,Items
+ModManager/button_browseCollections,Collections
+ModManager/button_browseSteamWorkshop,Browse Steam Workshop
+ModManager/button_closeModManager,Close Mod Manager
+ModManager/button_continue,Continue
+ModManager/button_filterAll,All
+ModManager/button_filterMissions,Missions
+ModManager/button_filterModules,Modules
+ModManager/button_filterMyFavorites,My Favorites
+ModManager/button_filterOther,Other
+ModManager/button_manageInstalledMods,Manage Installed Mods
+ModManager/button_nextPage,Next Page
+ModManager/button_openModManualFolder,Open Mod Manual Folder
+ModManager/button_previousPage,Previous Page
+ModManager/button_rateMod,Rate
+ModManager/button_sortDate,Date
+ModManager/button_sortVote,Vote
+ModManager/button_subscribe,Subscribe
+ModManager/button_subscribeAll,Subscribe All
+ModManager/button_toggleFavorite,Favorite
+ModManager/button_unsubscribe,Unsubscribe
+ModManager/button_unsubscribeAll,Unsubscribe All
+ModManager/button_viewInWorkshop,View in Workshop
+ModManager/child_manualInstructionsHelp,English
+ModManager/error_communicatingWithSteamWorkshop,Error communicating with Steam Workshop
+ModManager/error_pleaseTryAgainLater,Please try again later
+ModManager/label_by,by
+ModManager/label_closeModManagerDescription,Apply all mod changes and return to the game. All enabled mods will be loaded.
+ModManager/label_collectionBy,a collection by
+ModManager/label_collectionsDescription,Browse groups of items curated by the community. Subscribe to bunches of mods all at once!
+ModManager/label_disableModWarning,IMPORTANT: Disabling a mod will not fully take effect until you have restarted the game.
+ModManager/label_downloadprogress,{[NUM_DOWNLOADED]} {[DOWNLOADED_TYPE]} / {[NUM_TOTAL]} {[TOTAL_TYPE]}
+ModManager/label_downloadstatus,{[PENDING_COUNT]} mod downloads are pending or in progress.[i2p_One]1 mod download is pending or in progress.
+ModManager/label_filesize,{[NUM]} {[TYPE]}
+ModManager/label_findModManualAgain,"If you need to access this again, you can find buttons in the mod brochure on the desk."
+ModManager/label_howToViewModManual,"To view the manual for these mods, 
+open Manual.pdf in the mod manual folder:"
+ModManager/label_itemDisplay,{[START_NUM]}-{[END_NUM]} of {[TOTAL_NUM]}
+ModManager/label_itemRequiresAdditionalItems,This item requires {[ITEM_COUNT]} additional items:[i2p_One]This item requires 1 additional item:
+ModManager/label_itemsDescription,"Browse, subscribe to, and download items created by the community. New modules, missions, and more!"
+ModManager/label_manageModsDescription,View installed mods and quickly enable or disable them.
+ModManager/label_modStatusDisabled,Disabled
+ModManager/label_modStatusDownloadPending,Download pending
+ModManager/label_modStatusDownloading,Downloading
+ModManager/label_modStatusInstalled,Installed
+ModManager/label_morechilditems,Plus <u>{[NUM_CHILD_ITEMS]}</u> more items.[i2p_One]Plus <u>1</u> more item.
+ModManager/label_noDescription,(No Description)
+ModManager/label_noInstalledMods,No installed mods found.
+ModManager/label_noResults,No results
+ModManager/label_queryingSteamWorkshop,Querying Steam Workshop...
+ModManager/label_sort,Sort:
+ModManager/label_tagAudio,Audio
+ModManager/label_tagBombCasing,Bomb Casing
+ModManager/label_tagGameplayRoom,Gameplay Room
+ModManager/label_tagMissions,Missions
+ModManager/label_tagNeedyModule,Needy Module
+ModManager/label_tagOther,Other
+ModManager/label_tagRegularModule,Regular Module
+ModManager/label_tagSetupRoom,Setup Room
+ModManager/label_tagWidget,Widget
+ModManager/label_workshopDescription,Find and download mods created by the Steam community.
+ModManager/status_buildingManual,Building manual
+ModManager/status_disablingMods,Disabling mod {[CURRENT_NUM]} of {[TOTAL_NUM]}:
+ModManager/status_fetchingModInformation,Fetching mod information from Steam Workshop...
+ModManager/status_initializing,Initializing Mod Manager...
+ModManager/status_loadingLocalMods,Loading local mod {[CURRENT_NUM]} of {[TOTAL_NUM]}:
+ModManager/status_loadingModInformation,Loading mod information...
+ModManager/status_loadingSteamMods,Loading Steam mod {[CURRENT_NUM]} of {[TOTAL_NUM]}:
+ModManager/status_modLoadingComplete,Mod loading complete
+ModManager/status_modManagerLoadComplete,Mod Manager load complete
+ModManager/title_error,Error
+ModManager/title_manageInstalledMods,Manage Installed Mods
+ModManager/title_modManagerMainMenu,Mod Manager
+ModManager/title_steamWorkshopCategorySelect,Steam Workshop
+ModManager/title_steamWorkshopCollections,Steam Workshop Collections
+ModManager/title_steamWorkshopItems,Steam Workshop Items
+ModManager/title_whereToFindModManualInstructions,Mod modules are now active!
+ModManagerHoldable/button_manageMods,Manage Mods
+ModManagerHoldable/button_modManualFolder,"Mod Manual
+Folder"
+ModManagerHoldable/button_modSettingsFolder,"Mod Settings
+Folder"
+ModManagerHoldable/child_bombDiagram,AllLanguages
+ModManagerHoldable/label_andMore,...And More!
+ModManagerHoldable/label_cover,Mods
+ModManagerHoldable/label_getTheManualAndSettings,Get the manual and settings for your mods:
+ModManagerHoldable/label_localDescription,Mods are modifications to Keep Talking and Nobody Explodes provided by the community.
+ModManagerHoldable/label_modsDescription,Mods are modifications to Keep Talking and Nobody Explodes provided by the community through Steam Workshop.
+ModManagerHoldable/label_newMissions,New Missions...
+ModManagerHoldable/label_newModules,...New Modules...
+ModManagerHoldable/label_opensInFileManager,(Opens in your File Manager)
+ModManagerHoldable/label_opensInFinder,(opens in Finder)
+ModManagerHoldable/label_opensInWindowsExplorer,(Opens in Windows File Explorer)
+ModManagerHoldable/label_steamWorkshopDescription,Mods are modifications to Keep Talking and Nobody Explodes provided by the community through Steam Workshop.
+ModManagerHoldable/label_whatAreMods,What are mods?
+ModWarningScreen/button_disableMods,Disable Mods
+ModWarningScreen/button_enableMods,Enable Mods
+ModWarningScreen/label_modsDescription,"Mods are modifications to the game that are not created by the game's developers.
+
+Mods and their descriptions on the Steam Workshop
+ may contain content that some players could find objectionable.
+
+Mods can execute code with the same permissions as the game and can
+affect game performance or potentially even harm your computer.
+
+Use at your own risk."
+ModWarningScreen/title_modsAndExternalContentWarning,Mods and External Content Warning
+ModuleName/BigButton,The Button
+ModuleName/Keypad,Keypad
+ModuleName/Maze,Maze
+ModuleName/Memory,Memory
+ModuleName/Mod,Mod
+ModuleName/Morse,Morse Code
+ModuleName/NeedyCapacitor,Needy Capacitor
+ModuleName/NeedyKnob,Needy Knob
+ModuleName/NeedyVentGas,Needy Vent Gas
+ModuleName/None,None
+ModuleName/Password,Password
+ModuleName/Simon,o kute a
+ModuleName/Venn,Complicated Wires
+ModuleName/WhosOnFirst,Who's on First
+ModuleName/WireSequence,Wire Sequence
+ModuleName/Wires,Wires
+MorseComponent/button_transmit,pana
+MorseComponent/label_display,3.{[FREQ]} MHz
+MorseComponent/rule_characterList,abcdefghijklmnopqrstuvwxyz0123456789
+MorseComponent/rule_Option1,akesi 
+MorseComponent/rule_Option10,kalama
+MorseComponent/rule_Option11,alasa
+MorseComponent/rule_Option12,kepeken
+MorseComponent/rule_Option13,kiwen
+MorseComponent/rule_Option14,kulupu
+MorseComponent/rule_Option15,linja
+MorseComponent/rule_Option16,lukin 
+MorseComponent/rule_Option17,monsi 
+MorseComponent/rule_Option18,nanpa 
+MorseComponent/rule_Option19,nasin 
+MorseComponent/rule_Option2,pakala
+MorseComponent/rule_Option20,palisa
+MorseComponent/rule_Option21,pilin
+MorseComponent/rule_Option3,sitelen
+MorseComponent/rule_Option4,sijelo
+MorseComponent/rule_Option5,sinpin
+MorseComponent/rule_Option6,pimeja
+MorseComponent/rule_Option7,soweli
+MorseComponent/rule_Option8,tenpo
+MorseComponent/rule_Option9,utala
+NeedyKnobComponent/label_up,SEWI
+NeedyVentComponent/button_n,A
+NeedyVentComponent/button_y,P
+NeedyVentComponent/label_confirmYN,PONA/ALA
+NeedyVentComponent/label_detonateQuestion,PAKALA?
+NeedyVentComponent/label_no,ALA
+NeedyVentComponent/label_ventGasQuestion,WEKA E KON?
+NeedyVentComponent/label_ventingComplete,"PINI
+WEKA"
+NeedyVentComponent/label_ventingPreventsExplosions,"WEKA LA
+PAKALA
+ALA"
+NeedyVentComponent/label_yes,PONA
+Overlay/label_loading,o awen...
+PasswordComponent/button_submit,SUBMIT
+PasswordComponent/rule_Option01,alasa
+PasswordComponent/rule_Option02,akesi
+PasswordComponent/rule_Option03,apeja
+PasswordComponent/rule_Option04,epiku
+PasswordComponent/rule_Option05,kiwen
+PasswordComponent/rule_Option06,linja
+PasswordComponent/rule_Option07,lukin
+PasswordComponent/rule_Option08,monsi
+PasswordComponent/rule_Option09,nanpa
+PasswordComponent/rule_Option10,nasin
+PasswordComponent/rule_Option11,pilin
+PasswordComponent/rule_Option12,tenpo
+PasswordComponent/rule_Option13,tonsi
+PasswordComponent/rule_Option14,utala
+PasswordComponent/rule_Option15,panla
+PasswordComponent/rule_Option16,kanse
+PasswordComponent/rule_Option17,kenli
+PasswordComponent/rule_Option18,usawi
+PasswordComponent/rule_Option19,konwe
+PasswordComponent/rule_Option20,ojuta
+PasswordComponent/rule_Option21,posan
+PasswordComponent/rule_Option22,elena
+PasswordComponent/rule_Option23,sutan
+PasswordComponent/rule_Option24,asija
+PasswordComponent/rule_Option25,sonko
+PasswordComponent/rule_Option26,nijon
+PasswordComponent/rule_Option27,sensa
+PasswordComponent/rule_Option28,apika
+PasswordComponent/rule_Option29,elopa
+PasswordComponent/rule_Option30,konko
+PasswordComponent/rule_Option31,awisi
+PasswordComponent/rule_Option32,isale
+PasswordComponent/rule_Option33,lanka
+PasswordComponent/rule_Option34,ekato
+PasswordComponent/rule_Option35,tansi
+PasswordComponent/rule_characterList,aeijklmnopstuw
+SecondScreen/label_defuser,Defuser
+SecondScreen/label_defuserInstructionText,Please put on your VR headset now.
+SecondScreen/label_defuserInstructionTextPSVR,Please put on the VR headset.
+SecondScreen/label_defuserPSVR,VR Player
+SecondScreen/label_expert,Experts
+SecondScreen/label_expertInstructionText,Press a Gamepad Button or Spacebar to open the manual on this screen.
+SecondScreen/label_expertInstructionTextPSVR,Press {[PS4_CONFIRM_BUTTON]} to view the Bomb Defusal Manual.
+SecondScreen/label_expertPSVR,Other Players
+SecondScreen/label_spectatorsWarning,"This screen is for spectators only.
+
+The Experts are not allowed to see this screen."
+SecondScreen/label_twitterKeepTalkingGame,@KeepTalkingGame
+SecondScreen/label_waitingForVRInstructions,"<b>Defuser:</b>
+
+Please put on your VR headset now
+and press a button to begin."
+SecondScreen/label_waitingForVRInstructionsPSVR,"<b>VR Player:</b>
+
+Please put on your VR headset now."
+SecondScreen/label_youCanAlsoViewOrPrintTheManualAt,You can also view or print manual version {[MANUAL_VERSION]} at:
+SerialNumber/label_serialHashmark,SERIAL #
+TitleScreen/label_continue,Press A to continue
+TitleScreen/label_continue[VR],Press A to continue
+TitleScreen/label_continue[Daydream],Click the touchpad to continue
+TitleScreen/label_continue[GearVR],"Look forward
+Tap the touchpad or press any button"
+TitleScreen/label_continue[OculusGo],"Look forward
+Pull the trigger to continue"
+TitleScreen/label_continue[OculusQuest],Pull the trigger to continue
+TitleScreen/label_continue[Switch],Press the A Button to continue
+TitleScreen/label_continue[PS4],Press {[PS4_CONFIRM_BUTTON]} to continue
+TitleScreen/label_continue[Touch],Tap to continue
+TitleScreen/label_continue[PC],Press A or click to continue
+TitleScreen/label_controllerRequired,Gamepad required
+TitleScreen/label_controllerRequiredMotion,Gamepad or motion controllers required
+TitleScreen/label_loadingDotDotDot,Loading...
+TitleScreen/label_manualVersion,Bomb Defusal Manual Version {[MANUAL_VERSION]} required
+TitleScreen/label_manualVersion_NoRequiredText,Bomb Defusal Manual Version {[MANUAL_VERSION]}
+TitleScreen/texture_logo,Logo
+Tournament/header_round,<u>Round {[ROUND_NUM]}</u>
+Tournament/header_team,<u>Team</u>
+Tournament/header_total,<u>Total</u>
+Tournament/label_finalRound,Final Round
+Tournament/label_nextUp,"Next up:
+{[TEAM_NAME]}"
+Tournament/label_noTeamsFound,No teams found.
+Tournament/label_roundNum,Round: {[ROUND_NUM]}
+Tournament/label_score,Score:
+Tournament/label_scoreWithValue,Score: {[SCORE]}
+Tournament/label_teamWins,Team {[TEAM_NAME]} wins!
+Tournament/label_tieBreakerRound,Tie-breaker Round
+Tournament/label_tournamentNotStarted,Tournament not yet started
+VerificationScreen/button_language,"<sprite=""Globe"" name=""Globe""> Language"
+VerificationScreen/button_learnMore,Learn More
+VerificationScreen/button_submit,Submit
+VerificationScreen/label_askFriendToGetManualAt,Ask a friend to get the Bomb Defusal Manual at:
+VerificationScreen/label_askFriendToViewOnComputerScreenOrAt,"Ask a friend to view the Bomb Defusal Manual 
+on your computer screen or at:"
+VerificationScreen/label_askFriendToViewOnTVScreenOrAt,"Ask a friend to view the Bomb Defusal Manual 
+on your TV screen or at:"
+VerificationScreen/label_bombDefusalManualRequired,Bomb Defusal Manual Required
+VerificationScreen/label_description,"This game requires Bomb Defusal Manual version {[MANUAL_VERSION]} to play.
+Please ensure that you have the correct manual language and
+version by entering its verification code below."
+VerificationScreen/label_manualVersionCode,"Manual version {[MANUAL_VERSION]}
+verification code"
+WhosOnFirst/rule_DISPLAY1,nena
+WhosOnFirst/rule_DISPLAY10,nimi
+WhosOnFirst/rule_DISPLAY11,ni mi
+WhosOnFirst/rule_DISPLAY12,ni li
+WhosOnFirst/rule_DISPLAY13,ona li
+WhosOnFirst/rule_DISPLAY14,toki
+WhosOnFirst/rule_DISPLAY15,o kute
+WhosOnFirst/rule_DISPLAY16,kute
+WhosOnFirst/rule_DISPLAY17,sina
+WhosOnFirst/rule_DISPLAY18,sin a
+WhosOnFirst/rule_DISPLAY19,mi
+WhosOnFirst/rule_DISPLAY2,li
+WhosOnFirst/rule_DISPLAY20,nanpa wan
+WhosOnFirst/rule_DISPLAY21,kon ni
+WhosOnFirst/rule_DISPLAY22,ko ni
+WhosOnFirst/rule_DISPLAY23,nimi ona
+WhosOnFirst/rule_DISPLAY24,ona li toki
+WhosOnFirst/rule_DISPLAY25,kalama
+WhosOnFirst/rule_DISPLAY26,kala ma
+WhosOnFirst/rule_DISPLAY27,ijo lon
+WhosOnFirst/rule_DISPLAY28,ilo lon
+WhosOnFirst/rule_DISPLAY3,lili lili
+WhosOnFirst/rule_DISPLAY4,suno
+WhosOnFirst/rule_DISPLAY5,ike
+WhosOnFirst/rule_DISPLAY6,ala
+WhosOnFirst/rule_DISPLAY7,---
+WhosOnFirst/rule_DISPLAY8,nimi ala
+WhosOnFirst/rule_DISPLAY9,walo
+WhosOnFirst/rule_KEYPAD_group1_1,kute ala kute
+WhosOnFirst/rule_KEYPAD_group1_10,o toki
+WhosOnFirst/rule_KEYPAD_group1_11,sewi
+WhosOnFirst/rule_KEYPAD_group1_12,anpa
+WhosOnFirst/rule_KEYPAD_group1_13,poka open
+WhosOnFirst/rule_KEYPAD_group1_14,poka pini
+WhosOnFirst/rule_KEYPAD_group1_2,poka ni
+WhosOnFirst/rule_KEYPAD_group1_3,ala
+WhosOnFirst/rule_KEYPAD_group1_4,nimi ala
+WhosOnFirst/rule_KEYPAD_group1_5,toki ala
+WhosOnFirst/rule_KEYPAD_group1_6,ni
+WhosOnFirst/rule_KEYPAD_group1_7,seme
+WhosOnFirst/rule_KEYPAD_group1_8,nnnnn
+WhosOnFirst/rule_KEYPAD_group1_9,jo
+WhosOnFirst/rule_KEYPAD_group2_1,sina
+WhosOnFirst/rule_KEYPAD_group2_10,pona
+WhosOnFirst/rule_KEYPAD_group2_11,ante
+WhosOnFirst/rule_KEYPAD_group2_12,o awen
+WhosOnFirst/rule_KEYPAD_group2_13,ken
+WhosOnFirst/rule_KEYPAD_group2_14,toki
+WhosOnFirst/rule_KEYPAD_group2_2,nimi
+WhosOnFirst/rule_KEYPAD_group2_3,ni li
+WhosOnFirst/rule_KEYPAD_group2_4,ni mi
+WhosOnFirst/rule_KEYPAD_group2_5,ona li
+WhosOnFirst/rule_KEYPAD_group2_6,sona ala
+WhosOnFirst/rule_KEYPAD_group2_7,lukin ala
+WhosOnFirst/rule_KEYPAD_group2_8,a a
+WhosOnFirst/rule_KEYPAD_group2_9,seme a
+WireSequence/label_a,A
+WireSequence/label_b,B
+WireSequence/label_c,C
+Credits/localizationQA,Localization QA
+Dossier/number_percent,{[PERCENT_NUMBER]}%
+BombBinder/decimal_separator,.
+VerificationScreen/label_incorrect_language,"You have entered a verification code for a different language.
+
+Please visit {[MANUAL_URL]} to find English manual version {[MANUAL_VERSION]}."
+VerificationScreen/label_old_code,"You have entered a verification code for an older version of the game.
+
+Please visit {[MANUAL_URL]} to find the latest English manual version {[MANUAL_VERSION]}."
+Dossier/unlockallmissions_no,Unlock All Missions: No
+Dossier/unlockallmissions_yes,Unlock All Missions: Yes
