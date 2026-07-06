@@ -14,7 +14,14 @@ MonoBehaviour:
   id: tokipona
   title: toki pona
   author: char321
-  description: Changes the game language to toki pona (replacing English)
+  description: "Changes the game language to toki pona (replacing English). Requires
+    the matching toki pona manual: https://char3210.github.io/ktane-toki-pona-manual/\n\nSource:
+    https://github.com/char3210/ktane-toki-pona\n\nTranslations are still incomplete!
+    Contributions are welcome.\n\nCredits:\n- translations compiled from the mun pi
+    ante toki event, coordination document & translators here: https://docs.google.com/document/d/14hmPb6b9SFlSt3W3J-Mau48GZI7Q7gnYnhxXrFpzQ74/edit?tab=t.0\r\n-
+    [Language Customizer mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2412167243)
+    inspired the implementation approach of this mod\n- custom bomb manual generation
+    logic from [Translated Modules mod](https://steamcommunity.com/sharedfiles/filedetails/?id=850186070)\r"
   version: 1.0
   outputFolder: build
   debugBuild: 1

@@ -1,9 +1,16 @@
-Community fork of the KTaNE Modkit.
+# ktane toki pona
 
-The [original (official) modkit](https://github.com/keeptalkinggame/ktanemodkit) isn't going to receive updates anymore. This is the fork that will be maintained from now on.
+ante musi pi musi KTaNE pi toki pona
 
-Community-made plugins can be installed at the `Keep Talking ModKit > Plugins` menupoint.
+KTaNE mod that changes game language to toki pona
 
-[Documentation](https://github.com/Qkrisi/ktanemodkit/wiki)
+steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3758758569
 
-To get more help, join the [Keep Talking and Nobody Explodes](https://discord.gg/ktane) or the [KTaNE Modding](https://discord.gg/qzy7Gdz) Discord servers.
+matching manual: https://char3210.github.io/ktane-toki-pona-manual/ (source https://github.com/char3210/ktane-toki-pona-manual)
+
+Translations are still incomplete! Contributions are welcome. Translations are in `Assets/Localization.txt`.
+
+Credits:
+- translations compiled from the mun pi ante toki event, coordination document & translators here: https://docs.google.com/document/d/14hmPb6b9SFlSt3W3J-Mau48GZI7Q7gnYnhxXrFpzQ74/edit?tab=t.0
+- Language Customizer mod inspired the implementation approach of this mod https://steamcommunity.com/sharedfiles/filedetails/?id=2412167243
+- custom bomb manual generation logic from Translated Modules mod https://steamcommunity.com/sharedfiles/filedetails/?id=850186070
