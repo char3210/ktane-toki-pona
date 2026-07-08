@@ -1,7 +1,7 @@
 Keys,toki pona [tok]
 AlarmClock/button_snooze,LAPE
 Achievement/ach1_name,jan wawa
-Achievement/ach1_desc,"pona e ""ijo pakala nanpa wan"""
+Achievement/ach1_desc,"pona e ""ilo pakala nanpa wan"""
 Achievement/ach2_name,Bomb Defusing 101
 Achievement/ach2_desc,"Defuse all bombs in ""The Basics"" section."
 Achievement/ach3_name,All in Moderation
@@ -25,17 +25,17 @@ BigButton/rule_abort,pini
 BigButton/rule_detonate,pakala
 BigButton/rule_hold,awen luka
 BigButton/rule_press,luka
-BombBinder/CoverText,Bombs
-BombBinder/HeaderFooter,English
-BombBinder/ParentToCName,Table of Contents
-BombBinder/SectionHeaderNumContd,Section {[SECTION_NUM]} (cont.)
-BombBinder/SectionHeaderNumName,Section {[SECTION_NUM]}: {[SECTION_NAME]}
+BombBinder/CoverText,ilo pakala
+BombBinder/HeaderFooter,toki pona
+BombBinder/ParentToCName,kulupu kulupu
+BombBinder/SectionHeaderNumContd,kulupu nanpa {[SECTION_NUM]} (kin)
+BombBinder/SectionHeaderNumName,kulupu nanpa {[SECTION_NUM]}: {[SECTION_NAME]}
 BombBinder/SubsectionNumber,{[SECTION_NUM]}.{[SUBSECTION_NUM]}
 BombBinder/TournamentComplete,Tournament Complete
-BombBinder/button_continue,CONTINUE
+BombBinder/button_continue,O TAWA
 BombBinder/button_restartdemo,RESTART DEMO
-BombBinder/button_retry,RETRY
-BombBinder/button_start,START
+BombBinder/button_retry,O SIN
+BombBinder/button_start,O OPEN
 BombBinder/error_missingModules,"Missing mods:
 {[MISSING_MODULES_LIST]}"
 BombBinder/error_missionNotFound,<MISSION NOT FOUND: {[MISSION_ID]}>
@@ -44,17 +44,17 @@ BombBinder/error_needABiggerBomb,"A bomb that can support more modules is requir
 Current bombs only support up to {[MAX_MODULE_COUNT]} modules."
 BombBinder/error_noSectionsDefined,NO SECTIONS DEFINED
 BombBinder/error_tutorialNotFound,<TUTORIAL NOT FOUND>
-BombBinder/label_1indentifier,1. Identifier
-BombBinder/label_2bombconfiguration,2. Bomb Configuration
-BombBinder/label_2description,2. Description
+BombBinder/label_1indentifier,1. nimi
+BombBinder/label_2bombconfiguration,2. nanpa sona ilo
+BombBinder/label_2description,2. toki ilo
 BombBinder/label_3advancedoptions,3. Advanced Options
 BombBinder/label_3attachments,3. Attachments
-BombBinder/label_3configuration,3. Bomb Configuration
-BombBinder/label_3result,3. Result
-BombBinder/label_4besttime,4. Best Time
-BombBinder/label_4result,4. Result
+BombBinder/label_3configuration,3. nanpa sona ilo
+BombBinder/label_3result,3. sona pini
+BombBinder/label_4besttime,4. tenpo wawa
+BombBinder/label_4result,4. sona pini
 BombBinder/label_cont,(cont.)
-BombBinder/label_tableOfContentsTitle,Contents
+BombBinder/label_tableOfContentsTitle,kulupu pi ilo pakala
 BombBinder/leaderboard_allplayers,(All Players)
 BombBinder/leaderboard_couldnotload,(Could not load leaderboard)
 BombBinder/leaderboard_error_load,Failed to load leaderboard.
@@ -81,19 +81,19 @@ BombBinder/results_HardcoreOff,Hardcore: OFF
 BombBinder/results_HardcoreOn,Hardcore: ON
 BombBinder/results_NeedyOff,Needy: OFF
 BombBinder/results_NeedyOn,Needy: ON
-BombBinder/results_TimeRanOut,Time Ran Out
+BombBinder/results_TimeRanOut,tenpo ala li lon
 BombBinder/section_conference_title,PAX East 2019
-BombBinder/txt_defusedStamp,Defused
-BombBinder/txt_explodedStamp,Exploded
+BombBinder/txt_defusedStamp,pona e ilo
+BombBinder/txt_explodedStamp,pakala
 BombBinder/gameobject_stampType,Stamp_EN_Texture
 BombBinder/tutorial_pickUpAndStart,Pick up the Bombs Binder and start a mission
-BombBinder/txtBestTime,* BEST TIME
-BombBinder/txtBestTimeRemaining,"{[TIME_REMAINING]}
-remaining"
-BombBinder/txtCauseOfExplosionTitle,Cause of Explosion:
+BombBinder/txtBestTime,* TENPO PI WAWA NANPA WAN
+BombBinder/txtBestTimeRemaining,"tenpo {[TIME_REMAINING]}
+li lon pini"
+BombBinder/txtCauseOfExplosionTitle,pakala li tan ni:
 BombBinder/txtModuleCount,{[MODULE_COUNT]} Modules[i2p_One]1 Module
 BombBinder/txtStrikeCount,{[STRIKE_COUNT]} Strikes[i2p_One]1 Strike
-BombBinder/txtTimeRemainingTitle,Time Remaining:
+BombBinder/txtTimeRemainingTitle,tenpo ni li lon pini:
 ControlsPopup/label_changeSelection,"Change
 Selection"
 ControlsPopup/label_select,Select
@@ -460,7 +460,7 @@ GameOverview/label_tryFunWays,"Try fun ways to keep the Defuser isolated, but wi
 GameOverview/label_youAreTheBombDefuser,You are the bomb Defuser. Your goal is to defuse a bomb with the help of your friends.
 GameOverview/label_yourFriendsAreTheExperts,Your friends are the Experts who guide you by using the Bomb Defusal Manual.
 General/EMPTY,---
-General/bombManualURL,www.BombManual.com
+General/bombManualURL,https://char3210.github.io/ktane-toki-pona-manual/
 General/button_cancel,Cancel
 General/button_changeProfile,Change Profile
 General/button_continue,Continue
@@ -493,9 +493,9 @@ General/language_th,Thai
 General/language_tr,Turkish
 General/language_uk,Ukrainian
 General/menu_back,Back
-General/menu_finish,Finish
+General/menu_finish,o pini
 General/menu_next,Next
-General/menu_ok,OK
+General/menu_ok,pona
 General/menu_previous,Previous
 General/missingchar,□
 General/shareManual_EmailSubject,Keep Talking and Nobody Explodes Game Manual
@@ -623,10 +623,10 @@ LanguageSelect/label_confirmation_heading,"Each language uses a different Bomb D
 LanguageSelect/label_confirmation_body,After changing languages you must ensure you have the correct manual language and version by entering its verification code.
 LanguageSelect/label_confirmation_body_PSVR,"Your TV screen will show this manual. If you have printed the manual or are viewing it on another device, make sure you are using Version {[NEW_MANUAL_VERSION]}."
 LanguageSelect/title_language,"<sprite=""Globe"" name=""Globe""> Language"
-LoadingScreen/label_defuserwarning_youreyesonly,"This screen is for your eyes only.
+LoadingScreen/label_defuserwarning_youreyesonly,"sina taso li ken lukin e sitelen ni.
 
-You are not allowed to look at
-the Bomb Defusal Manual."
+sina ken ala lukin e
+lipu sona pi ilo pakala."
 Manual/appendix.refa,See Appendix A for indicator identification reference.
 Manual/appendix.refb,See Appendix B for battery identification reference.
 Manual/appendix.refc,See Appendix C for port identification reference.
@@ -940,14 +940,14 @@ Misc/filesize_PB,PB
 Misc/filesize_TB,TB
 Missions/DebugToCName,Debug
 Missions/DefaultToCName,Missions
-Missions/Section_Challenging,Challenging
+Missions/Section_Challenging,wawa a!
 Missions/Section_Debug,[DEBUG BOMBS]
-Missions/Section_Exotic,Exotic
-Missions/Section_Extreme,Extreme
-Missions/Section_Introduction,Introduction
-Missions/Section_Moderate,Moderate
-Missions/Section_Needy,Needy
-Missions/Section_TheBasics,The Basics
+Missions/Section_Exotic,nasa a!
+Missions/Section_Extreme,wawa mute a!
+Missions/Section_Introduction,kama pona
+Missions/Section_Moderate,wawa lili
+Missions/Section_Needy,wile ike
+Missions/Section_TheBasics,open pona
 Missions/ahiddenmessage_Description,"Information can be obscured in ways that are time-consuming to decode. 
 
 In the world of bomb defusing, that's a bad thing."
@@ -980,10 +980,10 @@ Missions/fairgame_Description,"No more hand-holding. Remember everything you've 
 Missions/fairgame_DisplayName,Fair Game
 Missions/fiendish_Description,You have all the experience you need to defuse this. You just need to execute.
 Missions/fiendish_DisplayName,Fiendish
-Missions/firsttime_Description,"Everybody has to start somewhere. Let's just hope it doesn't end here too.
+Missions/firsttime_Description,"jan ale li open pona e ilo pakala lon ni. o moli ala lon ni kin.
 
-Make sure your experts have the manual and are ready to help."
-Missions/firsttime_DisplayName,ijo pakala nanpa wan
+jan sona o jo e lipu sona pi ilo pakala o ken pona e sina."
+Missions/firsttime_DisplayName,ilo pakala nanpa wan
 Missions/freeplay_DisplayName,Free Play
 Missions/gameoverviewtutorial_Description,"A brief overview of Keep Talking and Nobody Explodes and the roles of each player.
 
@@ -1140,36 +1140,36 @@ affect game performance or potentially even harm your computer.
 
 Use at your own risk."
 ModWarningScreen/title_modsAndExternalContentWarning,Mods and External Content Warning
-ModuleName/BigButton,The Button
-ModuleName/Keypad,Keypad
-ModuleName/Maze,Maze
-ModuleName/Memory,Memory
-ModuleName/Mod,Mod
-ModuleName/Morse,Morse Code
-ModuleName/NeedyCapacitor,Needy Capacitor
-ModuleName/NeedyKnob,Needy Knob
-ModuleName/NeedyVentGas,Needy Vent Gas
-ModuleName/None,None
-ModuleName/Password,Password
+ModuleName/BigButton,nena suli
+ModuleName/Keypad,nena sitelen
+ModuleName/Maze,tomo pi sinpin mute
+ModuleName/Memory,sona pi tenpo pini
+ModuleName/Mod,ante musi
+ModuleName/Morse,toki suno
+ModuleName/NeedyCapacitor,sina weka e wawa tan poki wawa
+ModuleName/NeedyKnob,palisa lili pi tawa sike
+ModuleName/NeedyVentGas,sina weka e kon ike
+ModuleName/None,ala
+ModuleName/Password,nimi pi sona ala
 ModuleName/Simon,o kute a
-ModuleName/Venn,Complicated Wires
-ModuleName/WhosOnFirst,Who's on First
-ModuleName/WireSequence,Wire Sequence
-ModuleName/Wires,Wires
+ModuleName/Venn,linja nasa
+ModuleName/WhosOnFirst,toki ike musi
+ModuleName/WireSequence,nasin lon pi lina mute
+ModuleName/Wires,linja
 MorseComponent/button_transmit,pana
 MorseComponent/label_display,3.{[FREQ]} MHz
 MorseComponent/rule_characterList,abcdefghijklmnopqrstuvwxyz0123456789
-MorseComponent/rule_Option1,akesi 
+MorseComponent/rule_Option1,akesi
 MorseComponent/rule_Option10,kalama
 MorseComponent/rule_Option11,alasa
 MorseComponent/rule_Option12,kepeken
 MorseComponent/rule_Option13,kiwen
 MorseComponent/rule_Option14,kulupu
 MorseComponent/rule_Option15,linja
-MorseComponent/rule_Option16,lukin 
-MorseComponent/rule_Option17,monsi 
-MorseComponent/rule_Option18,nanpa 
-MorseComponent/rule_Option19,nasin 
+MorseComponent/rule_Option16,lukin
+MorseComponent/rule_Option17,monsi
+MorseComponent/rule_Option18,nanpa
+MorseComponent/rule_Option19,nasin
 MorseComponent/rule_Option2,pakala
 MorseComponent/rule_Option20,palisa
 MorseComponent/rule_Option21,pilin
@@ -1194,7 +1194,7 @@ PAKALA
 ALA"
 NeedyVentComponent/label_yes,PONA
 Overlay/label_loading,o awen...
-PasswordComponent/button_submit,SUBMIT
+PasswordComponent/button_submit,PANA
 PasswordComponent/rule_Option01,alasa
 PasswordComponent/rule_Option02,akesi
 PasswordComponent/rule_Option03,apeja
@@ -1251,7 +1251,7 @@ SecondScreen/label_waitingForVRInstructionsPSVR,"<b>VR Player:</b>
 
 Please put on your VR headset now."
 SecondScreen/label_youCanAlsoViewOrPrintTheManualAt,You can also view or print manual version {[MANUAL_VERSION]} at:
-SerialNumber/label_serialHashmark,SERIAL #
+SerialNumber/label_serialHashmark,NANPA ILO
 TitleScreen/label_continue,Press A to continue
 TitleScreen/label_continue[VR],Press A to continue
 TitleScreen/label_continue[Daydream],Click the touchpad to continue
@@ -1325,7 +1325,7 @@ WhosOnFirst/rule_DISPLAY6,ala
 WhosOnFirst/rule_DISPLAY7,---
 WhosOnFirst/rule_DISPLAY8,nimi ala
 WhosOnFirst/rule_DISPLAY9,walo
-WhosOnFirst/rule_KEYPAD_group1_1,kute ala kute
+WhosOnFirst/rule_KEYPAD_group1_1,a
 WhosOnFirst/rule_KEYPAD_group1_10,o toki
 WhosOnFirst/rule_KEYPAD_group1_11,sewi
 WhosOnFirst/rule_KEYPAD_group1_12,anpa
